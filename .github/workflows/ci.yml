@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  security-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for source code leakage
+        run: |
+          echo "=== Checking for source code files ==="
+          if find . -name "*.rs" -o -name "*.tsx" -o -name "*.ts" \
+                   -o -name "*.vue" -o -name "*.jsx" 2>/dev/null | \
+             grep -v node_modules | grep -v ".github"; then
+            echo "::error::Source code files (.rs/.tsx/.ts/.vue/.jsx) found in release repo!"
+            exit 1
+          fi
+          echo "✅ No source code files detected"
+
+          for dir in src-tauri backend src; do
+            if [ -d "$dir" ]; then
+              echo "::error::$dir directory exists in release repo!"
+              exit 1
+            fi
+          done
+          echo "✅ No source code directories detected"
