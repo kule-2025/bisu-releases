@@ -1,0 +1,29 @@
+name: Sync to Gitee
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set up SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.GITEE_SSH_PRIVATE_KEY }}" > ~/.ssh/gitee_id_rsa
+          chmod 600 ~/.ssh/gitee_id_rsa
+          ssh-keyscan -t rsa gitee.com >> ~/.ssh/known_hosts
+      - name: Sync to Gitee
+        env:
+          GITEE_SSH_URL: git@gitee.com:king2030/bisu.git
+        run: |
+          git remote add gitee-mirror $GITEE_SSH_URL 2>/dev/null || true
+          git push --set-upstream gitee-mirror main --force 2>/dev/null || true
+          for tag in $(git tag -l 'v*'); do
+            git push gitee-mirror $tag 2>/dev/null || true
+          done
