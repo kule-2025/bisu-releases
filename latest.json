@@ -1,0 +1,11 @@
+{
+  "version": "0.3.8",
+  "notes": "BISU v0.3.8 | 网文创作桌面软件 · 深度修复+应用级回退+签名校验",
+  "pub_date": "2026-07-26T04:41:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY3NZeEU5KzFkeHNtOXBsNE1nSkJRTmZsamJaQkJ2RkhubXg2TVlxVDJVdUpqSmUxNHdFU0dSSlIxU3lJK09Uakk0dmpDYTltTmEyZGtySDNVSjNvS1dTL2pmUHBNa0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDQwODg2CWZpbGU6QklTVV8wLjMuOF94NjQtc2V0dXAuZXhlClBhbldEYkQ1eTZ6OTZ5eG5KZUthTU04a0Y5emFDUHMvT0JiUEd3NlRuYmdXeUgzamF4bDRpQkp3czJlU3djQnNJc01xZ3JweVFlNmZob1EweUlUSkRBPT0K",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.8/BISU_0.3.8_x64-setup.exe"
+    }
+  }
+}
