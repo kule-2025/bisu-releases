@@ -1,11 +1,11 @@
 {
-  "version": "0.3.9",
-  "notes": "BISU v0.3.9｜网文创作桌面软件 · 小说创作桌面软件 · 爆款小说创作桌面软件",
-  "pub_date": "2026-07-27T00:28:08Z",
+  "version": "0.3.10",
+  "notes": "BISU v0.3.10｜网文创作桌面软件 · 小说创作桌面软件 · 爆款小说创作桌面软件",
+  "pub_date": "2026-07-27T09:35:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOFNuRWtDSENSTHdYSURlQncxNTg4NDFBaHQ4WSt4QXd0YXV5QXY5K3NNZFo4Y3N2UzNBTlRqbmRFUTVRK1FSSU5sV3UrZ1dRTTAvVFlUSms5eXJrSjUwZmYyZHg4MlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTExOTc2CWZpbGU6QklTVV8wLjMuOV94NjQtc2V0dXAuZXhlCjRvZytINzhzUFVYU0hPRUxKcU5QNHd0U3I3Z2EyejMwRUZLNGVQcHBZTkdiUm95TGJibS9PcUJ1eFJ3dWdtMk9rVEpmV1pWN3VFQS9DRTRvZGRzWERnPT0K",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.9/BISU_0.3.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRem9JeElDMHdFZVY4YVhuRDdVUkloNVR3UEhrU3c0NmpvTFJMM1RPMjFMa2o0QVVLUEFjUVNZMmc4c3FObFlnYVVPTk9WNXYxZkFSM3lZMWhQUE5BV1FnUm9kWUJCYmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTQ0NzY4CWZpbGU6QklTVV8wLjMuMTBfeDY0LXNldHVwLmV4ZQpYY1FybzZNem1hRVlZY2MyQkI2dE9BanIrUWFDMUVmMmhTNVo5d1dyWktyOTNXbDBlYTNHemljekR2ZTYvWUhzakJxY3FJd05uVjcwUStybmUxWW1EUT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.10/BISU_0.3.10_x64-setup.exe"
     }
   }
 }
