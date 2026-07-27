@@ -1,11 +1,11 @@
 {
-  "version": "0.3.8",
-  "notes": "BISU v0.3.8 | 修复签名密钥一致性 + 更新端点 GitHub 优先 + 多架构命名兼容 + E2E 验签测试",
-  "pub_date": "2026-07-26T10:26:00Z",
+  "version": "0.3.9",
+  "notes": "BISU v0.3.9｜网文创作桌面软件 · 小说创作桌面软件 · 爆款小说创作桌面软件",
+  "pub_date": "2026-07-27T00:28:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOFNuRWtDSENSTDdZRGlpelVNaTFaSGp0ZVhGWUdXdE1TS3Q3QlVscjRxQy8zbFgyVE9SanpUTk54RUxvaitKNWZxYkRuS00xOVY5UmdoK1ZQR0gwTFBQZTM5ZEdFR3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDYxNjA3CWZpbGU6QklTVV8wLjMuOF94NjQtc2V0dXAuZXhlCmsyNzBOZ2Zxc2ZCd3RYQzk1YThXdlIrU2pOZ0x4c0UzOU5KbHAvbGFkVnNrRTNzelJFWlFxZHhwelJHay9NRFRoM2tXSC9VK1pLTEN2QSs2RjB2RkNRPT0K",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.8/BISU_0.3.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOFNuRWtDSENSTHdYSURlQncxNTg4NDFBaHQ4WSt4QXd0YXV5QXY5K3NNZFo4Y3N2UzNBTlRqbmRFUTVRK1FSSU5sV3UrZ1dRTTAvVFlUSms5eXJrSjUwZmYyZHg4MlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTExOTc2CWZpbGU6QklTVV8wLjMuOV94NjQtc2V0dXAuZXhlCjRvZytINzhzUFVYU0hPRUxKcU5QNHd0U3I3Z2EyejMwRUZLNGVQcHBZTkdiUm95TGJibS9PcUJ1eFJ3dWdtMk9rVEpmV1pWN3VFQS9DRTRvZGRzWERnPT0K",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.9/BISU_0.3.9_x64-setup.exe"
     }
   }
 }
