@@ -1,11 +1,11 @@
 {
-  "version": "0.3.12",
-  "notes": "BISU v0.3.12｜网文创作桌面助手 · 9 项截图问题修复 + 更新签名密钥轮换（自动更新通道恢复正常）",
-  "pub_date": "2026-07-27T12:37:21Z",
+  "version": "0.3.13",
+  "notes": "BISU v0.3.13｜网文创作桌面助手 · 4 大增强 + 引导式创作 + 4 项截图 UI 修复（GitHub 备源）",
+  "pub_date": "2026-07-28T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaXkxWnZJUDlybTZOelAwSnR4TWp6UUxseGcyU1lGRSs0OGxkY1pvK0pCWVl0SUtBODhNbFJOL2JzVDRtWm93QzU5ZWQzNEpZQURXRlArUDdYazRoc2V2dGVtUkoxU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTU1NjYyCWZpbGU6QklTVV8wLjMuMTJfeDY0LXNldHVwLmV4ZQo3T2h6TEIwU3hsNENNckZoYkkzNmY1N1dGbjhyT3BuOXpseUp5akZDZmMvZUFQdnU4OWVwUmhiYVhEZnhseHZlaGpZU0J3OTQzVlZ0MjN4bXUyRFpCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/packages/BISU_0.3.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaXkxWnZJUDlybXhza05BVTl6Mk53TCtJb240N2lpQy9rdXFJMWU4UnBlS0JkVm5zTWk2RytVak4zRzhNMEhvbzhYeUpFYUFJcnBxdW83cHYwTG9OUG5PcVdoVFUwekFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTk2NzQyCWZpbGU6QklTVV8wLjMuMTNfeDY0LXNldHVwLmV4ZQorTzgzcHd4akUvMU1UV0lYY3R2bjlJTzdOdXA4OE40T2dBd2lWdUFVaXY5RHFmNXp4elY4SVFmU01qb29xeWVmRjFGbzJtMjNHTGh6Y2hJOVE3SEJBZz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.13/BISU_0.3.13_x64-setup.exe"
     }
   }
 }
