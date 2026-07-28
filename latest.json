@@ -1,12 +1,12 @@
 {
-  "version": "0.3.17",
-  "notes": "BISU v0.3.17 — LLM韧性层+UI重构+签名修复整合。v0.3.16用户可自动静默更新。",
-  "pub_date": "2026-07-28T16:54:00+08:00",
+  "version": "0.3.19",
+  "pub_date": "2026-07-29T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbGRSTWxGclFUZExOelZ6VTJ0YWF6aG1RMnMwZEU5YVltZG5WRTlNV1hWVlJXVk1ja3R3VGtOT05USnlSM0JEVWtSb1pHUlVhMVp6U1ZsRFNVUmllalZvWjJ4bmRsTllhVzlRU1hwbU1taG1URTV5VDBkMldrWnphWEF5WW1GbGJIZG5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMU1qSTRORGd4Q1dacGJHVTZRa2xUVlY4d0xqTXVNVGRmZURZMExYTmxkSFZ3TG1WNFpRcHNkQ3RPZVc4emJURjRhVEIyYW1sdmVFeFpUU3MxYjJWS1dFSk9iazgyWkRaMmFHZDBUWGMyWTJSQmQzcFZOMVo2TlRZNGN6RTJhVmhuYms1c2RXbE1jMkl5U20xWVpIZG1WSFF3ZWxvMEt6SXJXVWREZHowOUNnPT0=",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.17/BISU_0.3.17_x64-setup.exe",
-      "sha256": "53c3eaa18bddb107feac560f58f2f93235d99a5bdd03ac2c88b6c2a62c45b205"
+      "sha256": "c01028cdc33de892e74b666f176ae00ca26f3e9ed1f141b72a4dd4dee8e57da6",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWThxSG1BUERsTTh0RmErVllSbTNKbmJ1Wlh6MUcwSlIvcVNaY3QzQW43TTBxcVI1YkQ0VzQ1MUNlMThPR3JpVHdtSUFuc2YvVTBPVEJoTmRuMkpsa3Vmc0Ywc202TVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjgxNDU1CWZpbGU6QklTVV8wLjMuMTlfeDY0LXNldHVwLmV4ZQp6b1pBV0xQNjI5d0xFb3k1b3czYmRsZko3UVdoK052bjRPQWNnb2ZvVC8zUFZlaG1yUkVCTlprL015VTE2Y2NuVGltK1J0cFYxMlR3eDhvN0dYRTZDZz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.19/BISU_0.3.19_x64-setup.exe"
     }
-  }
+  },
+  "notes": "BISU v0.3.19 — 工作流引擎增强(拖拽编排/条件分支/预设模板) + 提示词库深度上下文感知(13题材黄金公式/链式推荐) + 智能增强(6风格切换/跨章节校验/套路检测/diff预览) + 交互体验(引导式创作向导/6模板快启/智能补全) + 根目录归档清理 + Gitee安全加固"
 }
