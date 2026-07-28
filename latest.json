@@ -5,7 +5,7 @@
     "windows-x86_64": {
       "sha256": "4de6b87b7fc468736fc3283e0712c9ce6d5c69121bad581750d7f2be07dd9d8d",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaXkxWnZJUDlybTNlRHBzMHlvMXBiK0F4cm00ZDhjZ3RneUFSVjRUS3ZqK2twUVplQUl2dFg3bGZ4TlhIcTZ0NzJGUDNqUUlUaVBwNEN3aHJTSG5UaTA2RzRhM1RHN0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjA4NTQ0CWZpbGU6QklTVV8wLjMuMTRfeDY0LXNldHVwLmV4ZQp3NXlvdVF2YWIyVEJ0Yy85Y0NWMnVyMWtiMDlzY0tYdkZ2N29sS1lNWmh3endmS0JQVjhvd3Z2TnFGSzJGc01UVnFVZFFLaUJLODk3NElrNmc5ZUZCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/BISU_0.3.14_x64-setup.exe"
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.14/BISU_0.3.14_x64-setup.exe"
     }
   },
   "notes": "BISU v0.3.14｜API Key 空值统一校验 + 自动激活 + 输入区布局精简 + updater 公钥/错误信息修复（GitHub 备源）"
