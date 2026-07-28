@@ -1,12 +1,12 @@
 {
   "version": "0.3.14",
-  "pub_date": "2026-07-28T02:30:00Z",
+  "pub_date": "2026-07-28T03:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "sha256": "612c934e9037375ccbebfb734986587e38f0d642d2fcce3b4fd2ca0c93ff226c",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaXkxWnZJUDlybTE2Rm4vQlluL3I0V0VoaHlvQmpXZk1vZmFSOE9pSVRocXpXVHd6bDExdWhRcTVGZ0hpTFRCbE52VUFRMktobWs2QldrTFFPc1djTDltRTJ3SnNxTndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjA1MjIxCWZpbGU6QklTVV8wLjMuMTRfeDY0LXNldHVwLmV4ZQppZXFFbTV5NERhMDdtWFNLTWg2WlpzeTg4V3BTbVVaaEVYUnhJbEZ3dUpWYXZ3V3duSEFSRDNibm9zMFQ0VkUwclVzUVluSnlLemQ2Mk5WeTRzVWtBZz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.14/BISU_0.3.14_x64-setup.exe"
+      "sha256": "4de6b87b7fc468736fc3283e0712c9ce6d5c69121bad581750d7f2be07dd9d8d",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaXkxWnZJUDlybTNlRHBzMHlvMXBiK0F4cm00ZDhjZ3RneUFSVjRUS3ZqK2twUVplQUl2dFg3bGZ4TlhIcTZ0NzJGUDNqUUlUaVBwNEN3aHJTSG5UaTA2RzRhM1RHN0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjA4NTQ0CWZpbGU6QklTVV8wLjMuMTRfeDY0LXNldHVwLmV4ZQp3NXlvdVF2YWIyVEJ0Yy85Y0NWMnVyMWtiMDlzY0tYdkZ2N29sS1lNWmh3endmS0JQVjhvd3Z2TnFGSzJGc01UVnFVZFFLaUJLODk3NElrNmc5ZUZCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/BISU_0.3.14_x64-setup.exe"
     }
   },
-  "notes": "BISU v0.3.14｜网文创作桌面助手 · API Key 空值统一校验 + 自动激活 + 输入区布局精简（GitHub 备源）"
+  "notes": "BISU v0.3.14｜API Key 空值统一校验 + 自动激活 + 输入区布局精简 + updater 公钥/错误信息修复（GitHub 备源）"
 }
