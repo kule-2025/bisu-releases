@@ -1,1 +1,12 @@
-{"version": "0.3.15", "pub_date": "2026-07-28T04:40:08Z", "platforms": {"windows-x86_64": {"sha256": "b302585162b689d7541ed527569099ff8b73997724868b81e1cb1faa97657e20", "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaXkxWnZJUDlybTRmMWxkOTRTMGF2cDdaQUl5aW9rOFBHVjFTdC96REJHU2pyVGw2eEY2TGRqbVFRQTk4UXNTSXhBaEFuSTJyclg4M0xSbEwrYlNtMHY0WnYyQ3B6NndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjEzNTQ5CWZpbGU6QklTVV8wLjMuMTVfeDY0LXNldHVwLmV4ZQozWDhDa1BITExyN1NyelVWd2NYVDFJRTQwRkQzOVJELzdGRS9EbFBmUVNnd2ZKVEQ1N3VFa0pnL3pRN3N1Ung0NmFrYXlaeGIxcDRPaUplMGx5NDJCdz09Cg==", "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.15/BISU_0.3.15_x64-setup.exe"}}, "notes": "BISU v0.3.15｜更新管理界面状态冲突根因修复（单一数据源 + 互斥状态，彻底消除多源写入导致的矛盾展示）"}
+{
+  "version": "0.3.16",
+  "pub_date": "2026-07-28T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "sha256": "d48b817f2b9eb853f9921b35be106f7e0ba36ea919ad15b85371345cce3efa4d",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRMlFrQTdLNzVzU3NteGVCZ3EranJHRVcvRzJZSXhDZDlnd2NsalhyK0hRbzcrQ1FmUHZFWEJBNTNOckdrcmt0ZFVKeTV3eW8zVmJpL0Z2SEE1aW9OdTFsbFZwNGltdEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjIxMzIxCWZpbGU6QklTVV8wLjMuMTZfeDY0LXNldHVwLmV4ZQp0UlNwdXlIL2hKQ000R0pNQlF3WG5PcUNma1dTeFd5djNsVDc5bkJ2QS9wTTlCdnEwVHVuV1lKYldMdmRuQXNER0NVU29Lemx0QTBXLzRnd0NYRVhCUT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.16/BISU_0.3.16_x64-setup.exe"
+    }
+  },
+  "notes": "BISU v0.3.16 \u2014 \u4fee\u590d\u7b7e\u540d\u5bc6\u94a5\u4e0d\u5339\u914d Bug\uff08key_id \u4e00\u81f4\uff09"
+}
