@@ -1,12 +1,12 @@
 {
-  "version": "0.3.16",
-  "pub_date": "2026-07-28T12:00:00Z",
+  "version": "0.3.17",
+  "notes": "BISU v0.3.17 — LLM韧性层+UI重构+签名修复整合。v0.3.16用户可自动静默更新。",
+  "pub_date": "2026-07-28T16:54:00+08:00",
   "platforms": {
     "windows-x86_64": {
-      "sha256": "d48b817f2b9eb853f9921b35be106f7e0ba36ea919ad15b85371345cce3efa4d",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRMlFrQTdLNzVzU3NteGVCZ3EranJHRVcvRzJZSXhDZDlnd2NsalhyK0hRbzcrQ1FmUHZFWEJBNTNOckdrcmt0ZFVKeTV3eW8zVmJpL0Z2SEE1aW9OdTFsbFZwNGltdEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjIxMzIxCWZpbGU6QklTVV8wLjMuMTZfeDY0LXNldHVwLmV4ZQp0UlNwdXlIL2hKQ000R0pNQlF3WG5PcUNma1dTeFd5djNsVDc5bkJ2QS9wTTlCdnEwVHVuV1lKYldMdmRuQXNER0NVU29Lemx0QTBXLzRnd0NYRVhCUT09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.16/BISU_0.3.16_x64-setup.exe"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbGRSTWxGclFUZExOelZ6VTJ0YWF6aG1RMnMwZEU5YVltZG5WRTlNV1hWVlJXVk1ja3R3VGtOT05USnlSM0JEVWtSb1pHUlVhMVp6U1ZsRFNVUmllalZvWjJ4bmRsTllhVzlRU1hwbU1taG1URTV5VDBkMldrWnphWEF5WW1GbGJIZG5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMU1qSTRORGd4Q1dacGJHVTZRa2xUVlY4d0xqTXVNVGRmZURZMExYTmxkSFZ3TG1WNFpRcHNkQ3RPZVc4emJURjRhVEIyYW1sdmVFeFpUU3MxYjJWS1dFSk9iazgyWkRaMmFHZDBUWGMyWTJSQmQzcFZOMVo2TlRZNGN6RTJhVmhuYms1c2RXbE1jMkl5U20xWVpIZG1WSFF3ZWxvMEt6SXJXVWREZHowOUNnPT0=",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.17/BISU_0.3.17_x64-setup.exe",
+      "sha256": "53c3eaa18bddb107feac560f58f2f93235d99a5bdd03ac2c88b6c2a62c45b205"
     }
-  },
-  "notes": "BISU v0.3.16 \u2014 \u4fee\u590d\u7b7e\u540d\u5bc6\u94a5\u4e0d\u5339\u914d Bug\uff08key_id \u4e00\u81f4\uff09"
+  }
 }
