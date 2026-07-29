@@ -1,12 +1,1 @@
-{
-  "version": "0.3.19",
-  "pub_date": "2026-07-29T00:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "sha256": "c01028cdc33de892e74b666f176ae00ca26f3e9ed1f141b72a4dd4dee8e57da6",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWThxSG1BUERsTTh0RmErVllSbTNKbmJ1Wlh6MUcwSlIvcVNaY3QzQW43TTBxcVI1YkQ0VzQ1MUNlMThPR3JpVHdtSUFuc2YvVTBPVEJoTmRuMkpsa3Vmc0Ywc202TVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjgxNDU1CWZpbGU6QklTVV8wLjMuMTlfeDY0LXNldHVwLmV4ZQp6b1pBV0xQNjI5d0xFb3k1b3czYmRsZko3UVdoK052bjRPQWNnb2ZvVC8zUFZlaG1yUkVCTlprL015VTE2Y2NuVGltK1J0cFYxMlR3eDhvN0dYRTZDZz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.3.19/BISU_0.3.19_x64-setup.exe"
-    }
-  },
-  "notes": "BISU v0.3.19 — 工作流引擎增强(拖拽编排/条件分支/预设模板) + 提示词库深度上下文感知(13题材黄金公式/链式推荐) + 智能增强(6风格切换/跨章节校验/套路检测/diff预览) + 交互体验(引导式创作向导/6模板快启/智能补全) + 根目录归档清理 + Gitee安全加固"
-}
+{"version":"0.3.20","pub_date":"2026-07-29T00:00:00Z","platforms":{"windows-x86_64":{"sha256":"c8925d386e573eac6c201d13ca391abda937b7d64ba967b9a6580056b27fc8e5","signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWThxSG1BUERsTXdlZm9qeTRMa25ZaWk4REE3d2RmT1BRbEkvVXF2RXY3VGxQdEc0RndYTFR5YzdEWitvOTNxSFY0MGpiTEVsL0FacGZOVlFReHcvOE4yMDFZazBsYVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjkxNjk5CWZpbGU6QklTVV8wLjMuMjBfeDY0LXNldHVwLmV4ZQphNEJBMmhOSmp5NzJMTmxkZEI3SDdSZHpBZEpvUUhHakRhbXZUa2N0UEhDT2x4K1U4a0JzVG00K0NuUFVmZERIbVVqdDZ6akNINTNjQ0NWcXl1ckVEUT09Cg==","url":"https://github.com/kule-2025/bisu-releases/releases/download/v0.3.20/BISU_0.3.20_x64-setup.exe"}},"notes":"BISU v0.3.20 — 全面代码审计修复+安全加固+工作空间+专家团展示+意识更新+长期记忆"}
