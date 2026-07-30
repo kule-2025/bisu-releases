@@ -1,6 +1,6 @@
-# 笔溯 BISU — 网文小白作家专属桌面创作工具
+# 笔溯 BISU — 网文新手作者专属桌面创作工具
 
-> **当前版本：v0.3.23** · 100% 本地离线 · 加密保护 · Tauri 2.1 + Rust + React
+> **当前版本：v0.3.30** · 100% 本地离线 · 加密保护 · Tauri 2.1 + Rust + React
 
 ## 下载安装
 
@@ -8,8 +8,8 @@
 
 | 源 | 下载地址 |
 |---|---|
-| **Gitee 主源（推荐）** | [BISU_0.3.22_x64-setup.exe](https://gitee.com/king2030/bisu/releases/download/v0.3.23/BISU_0.3.22_x64-setup.exe) |
-| **GitHub 备源** | [BISU_0.3.22_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.3.23/BISU_0.3.22_x64-setup.exe) |
+| **Gitee 主源（推荐）** | [BISU_0.3.30_x64-setup.exe](https://gitee.com/king2030/bisu/releases/download/v0.3.30/BISU_0.3.30_x64-setup.exe) |
+| **GitHub 备源** | [BISU_0.3.30_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.3.30/BISU_0.3.30_x64-setup.exe) |
 
 下载后双击安装即可，支持 Windows 10/11 x64，无需额外运行时依赖。
 
@@ -69,6 +69,7 @@
 
 | 版本 | 日期 | 要点 |
 |------|------|------|
+| v0.3.30 | 2026-07-30 | 版本同步至 0.3.30（术语统一：新手作者）；详见源码仓库变更日志 |
 | v0.3.23 | 2026-07-29 | UI 全面对齐 + 灵感助手打通精修续写扩写 + 输入栏折叠 + 排行榜压缩 + API 设置统一 |
 | v0.3.21 | 2026-07-29 | 全面代码审计修复 + 安全加固 + 工作空间 + 意识更新 + 长期记忆 |
 | v0.3.20 | 2026-07-29 | 代码审计 + 安全加固 + 布局优化 + 工作空间 + 意识记忆 |
