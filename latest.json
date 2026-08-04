@@ -4,8 +4,8 @@
   "pub_date": "2026-08-03T03:59:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "RURY8qHmAPDlM+7hc47Nynl7SZ0zzBCj9NEvsHQXspDHJy2LugWm2HHQnlHZ5Uo1WDbQ7ZsDf1m2YZtUZqB3H9vzPUxOU+tJ5QA=",
-      "url": "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.2_x64-setup.exe",
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTV1RoeFNHMUJVRVJzVFNzM2FHTTBOMDU1Ym13M1Uxb3dlbnBDUTJvNVRrVjJjMGhSV0hOd1JFaEtlVEpNZFdkWGJUSklTRkZ1YkVoYU5WVnZNVmRFWWxFM1duTkVaakZ0TWxsYWRGVmFjVUl6U0RsMmVsQlZlRTlWSzNSS05WRkJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMU56STVOVEUwQ1dacGJHVTZRa2xUVlY4d0xqUXVNbDk0TmpRdGMyVjBkWEF1WlhobENsQnlkRmRsVm1sUmJGZFdjVzVSVVM5WlZIQXdjRFZQWjIxYVNHTlhNWFl5UVRWUlZsUkdSWFJ0UzFBd2RqbGxabnB0Um1oTU1sUk5ZamxSVWxGSmNUZEllRmRTVVcxaGQyaG5WblJDUmxrd09VRkpaVUozUFQwSw==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/latest/download/BISU_0.4.2_x64-setup.exe",
       "sha256": "9308f3159007f7bf103757a175d379284b7ce83386b43a6074db1154df14f3f5"
     }
   }
