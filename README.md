@@ -2,7 +2,7 @@
 
 > `#网文创作桌面助手` `#爆款小说创作桌面助手` `#爆款网文创作桌面助手` `#网文写作工具` `#桌面写作软件`
 
-> **当前版本：v0.4.2** · 100% 本地离线 · 加密 SQLite · Tauri 2.1 + Rust + React 18 + TypeScript 5.4
+> **当前版本：v0.4.3** · 100% 本地离线 · 加密 SQLite · Tauri 2.1 + Rust + React 18 + TypeScript 5.4
 > 不含任何云依赖 · 不收集任何用户数据
 
 ## 下载安装
@@ -11,14 +11,26 @@
 
 | 源 | 下载地址 |
 |---|---|
-| **Gitee 主源（推荐）** | [BISU_0.4.2_x64-setup.exe](https://gitee.com/king2030/bisu/raw/master/BISU_0.4.2_x64-setup.exe) |
-| **GitHub 备源** | [BISU_0.4.2_x64-setup.exe](https://github.com/kule-2025/bisu-releases/raw/main/BISU_0.4.2_x64-setup.exe) |
+| **GitHub Releases（CDN 直链）** | [BISU_0.4.3_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.4.3/BISU_0.4.3_x64-setup.exe) |
+| **Gitee 更新源（latest.json）** | [latest.json](https://gitee.com/king2030/bisu/raw/master/latest.json) |
 
-下载后双击安装即可，支持 Windows 10/11 x64，无需额外运行时依赖。
+> 下载后双击安装即可，支持 Windows 10/11 x64，无需额外运行时依赖。
+> **部署策略（2026-08-06 修正）**：Gitee raw 端点对 >10MB 大文件返回 403，故 **exe 安装包统一由 GitHub Releases CDN 分发**；Gitee 仅托管 latest.json 更新元数据。
 
 ## 自动更新
 
 已安装旧版本的用户，应用启动后会自动检测更新。也可在「设置 → 关于」中手动检查。Gitee 主源优先，GitHub 兜底。
+
+## v0.4.3 更新日志（2026-08-05）
+
+> **双源部署完成**：Gitee 主源 + GitHub 备源，SHA256 一致性验证通过。
+
+### 🔧 工程改进
+- **vite 构建修复**：`vite.config.ts` 添加 `emptyOutDir: false`，解决 safe-delete 钩子拦截 `dist/assets` 问题
+- **Tauri 配置清理**：移除 `tauri.conf.json` 中无效的 `targetDir`/`emptyOutDir` 字段
+- **Rust 编译告警清零**：修复 `state.rs` 和 `fix_engine/orchestrator.rs` 两处 unused variable 告警
+- **双源部署自动化**：Gitee `deploy_gitee_direct.py` + GitHub `upload_release.py` 完整部署链路验证
+- **403 更新修复（2026-08-06）**：`latest.json` 的 exe 下载 URL 由 Gitee raw（大文件 403）改为 GitHub Releases CDN；客户端错误文案由「没有访问权限」修正为「网络连接失败」
 
 ## v0.4.2 更新日志（2026-08-03）
 
@@ -58,23 +70,25 @@
 - 8 个专家团（爆款网文攻坚团/新书孵化团/甜宠攻坚团/热血战斗弧团/数据急救团/连载护航团等）
 
 ### AI 对话创作
-- 9+ 平台模型聚合（商汤/智谱/Kimi/通义/DeepSeek 等），优先级链+熔断+无感切换
-- 专家团横向展示 + 任务监控面板
-- 工作空间选择 + 版本化保存
+- 多模型聚合：9+ 平台预配置（商汤/智谱/Kimi/通义/DeepSeek/Ollama 等），优先级链 + 熔断 + 无感切换
+- 专家团展示：执行任务时横向显示参与专家头像 + 名称
+- 任务监控：实时显示执行步骤进度（✅/⏳/⚠️）
+- 工作空间选择：侧边栏 + 输入栏双入口，跨项目无缝切换
+- 版本化保存：AI 生成内容可「存为新版本」，不覆盖原文
 
 ### 创作辅助
-- 多平台排行榜抓取（番茄/起点/晋江/飞卢）+ 趋势图
-- 本地知识库 RAG 检索
-- AI 封面设计 + 多格式导入（PDF/DOCX/TXT/MD）
-- 备份恢复（24 小时自动备份）
+- 排行榜：番茄/起点/晋江/飞卢多平台榜单抓取，趋势图，分类筛选
+- 知识库：本地 RAG 向量检索，千章记忆，章节级语义搜索
+- 番茄发布：一键复制适配文本 + 打开后台，30 秒自动清空防泄露
+- 封面设计：AI 封面建议 + 图像生成
+- 多格式导入：PDF/DOCX/TXT/MD，自动解析 + 字数统计 + 全文检索
+- 备份恢复：一键备份/恢复，24 小时自动备份，RPO≤24h
 
----
+### 意识与记忆
+- 意识更新：管理 AI 助手行为记忆和偏好学习，支持自动学习开关
+- 长期记忆：持久化关键创作知识、角色设定、情节要点，config_kv 加密存储
 
-## 安全声明
-
-- 100% 本地离线运行
-- 不收集任何用户数据
-- 作品数据加密存储（AES-256-GCM + Argon2id）
-- 安装包 minisign 签名验证
-- 仅 Gitee 公共仓存放安装包，不含任何源码
-- 源码仅限私有仓库 `kule-2025/bisu-src`
+### 数据安全
+- 加密 SQLite：AES-256-GCM 透明加密，密钥由 Argon2id 派生
+- API Key 脱敏显示，仅存本地
+- 100% 本地离线运行，不收集任何用户数据

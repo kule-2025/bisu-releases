@@ -1,12 +1,12 @@
 {
-  "version": "0.4.2",
-  "notes": "BISU 0.4.2 \u2014 P0/P1 \u5168\u9762\u4fee\u590d + \u9759\u9ed8\u66f4\u65b0\u53ef\u7528",
-  "pub_date": "2026-08-03T03:59:39Z",
+  "version": "0.4.3",
+  "notes": "BISU 0.4.3 - Full audit fix release",
+  "pub_date": "2026-08-05T12:26:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWThxSG1BUERsTSs3aGM0N055bmw3U1owenpCQ2o5TkV2c0hRWHNwREhKeTJMdWdXbTJISFFubEhaNVVvMVdEYlE3WnNEZjFtMlladFVacUIzSDl2elBVeE9VK3RKNVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzI5NTE0CWZpbGU6QklTVV8wLjQuMl94NjQtc2V0dXAuZXhlClBydFdlVmlRbFdWcW5RUS9ZVHAwcDVPZ21aSGNXMXYyQTVRVlRGRXRtS1AwdjllZnptRmhMMlRNYjlRUlFJcTdIeFdSUW1hd2hnVnRCRlkwOUFJZUJ3PT0K",
-      "url": "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.2_x64-setup.exe",
-      "sha256": "9308f3159007f7bf103757a175d379284b7ce83386b43a6074db1154df14f3f5"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWThxSG1BUERsTSsvL2taU2xUanFUZkMrSEhMc2ZWUS9VcjZmUXRpeFVFYW9xdjJGODd4eGQvUUowTFRMZ2xTVk8vTkN6b2VGeFdocWpuckViQXJRNkhKVXA5K2Roc1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1OTMyNTc2CWZpbGU6QklTVV8wLjQuM194NjQtc2V0dXAuZXhlClJRMFpaZFE4ckV4SUc0SnpqTk9rWmg2YVQyUUp3WWRFTVNwUHdBVGtvQjRuaXFCcHMzRE9BbEYrRC9vWnkrVGhEckxQYlVpN291dG9ZTTZvTXJ4dEJ3PT0K",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.3/BISU_0.4.3_x64-setup.exe",
+      "sha256": "6dbb113e318834265d92a4abb4fece3bc9d4f01ae4d94e24e8c8d5e4e4b6c698"
     }
   }
 }
