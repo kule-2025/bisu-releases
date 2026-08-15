@@ -1,11 +1,11 @@
 {
-  "version": "0.4.4",
-  "notes": "BISU v0.4.4：多角色专家团全面修复批次（代码质量清扫/孤立组件挂载/真实数据流接入）",
-  "pub_date": "2026-08-15T08:13:41Z",
+  "version": "0.4.5",
+  "notes": "BISU v0.4.5：公钥轮换修复（旧客户端≤0.4.3须手动安装本版）+ CI 全链路修复 + 真实数据流接入",
+  "pub_date": "2026-08-15T09:09:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTV1RoeFNHMUJVRVJzVFRoSmRESkhWRVJ1TVVFclJtc3ZiV0ZUVjNCWFRIRk9kVVpYU1dJd1pFSnpWQ3RpTkZoTmJsZEVkMkZKUzNkRE9HeGFVMkpuWmtsTE4ySnVUblpFYVZkbWJtRkNPVXhDSzNFcmNXUm9jbnAxZDJ4NGJtZE5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMU5UWTRPVGM1Q1dacGJHVTZRa2xUVlY4d0xqUXVORjk0TmpRdGMyVjBkWEF1WlhobENrcGtXVzFWYTBWWU5UWmpUWEpyWkdwYWRsQkdUR0l5TW5SQ1pWZDZiMWhKY0VkVkszSkVlR2hYZGtwUFVHZGpRWFZsY1ROVFF6TlhjRWhWTDNKNmQzTm9OVVZGVGpONFRuY3ZkVXRDYUdaMWVVRTRXa0ZSUFQwSw==",
-      "url": "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.4_x64-setup.exe"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUlhKTWFGaHNPV2N3WjFOcVJHdFRhRGR1UTNjeGJXRk1jVlJLYzNKeGJYQkdVMUp1VmpWWFVIUnVNRUZTV0haMk5sZGhjRXhvWjFwMGEzY3ljVU5QZFhkMlduZzNTamxxVkd4WlFuRk9hMGhVZGtkTlEzZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk56Z3pNREl3Q1dacGJHVTZRa2xUVlY4d0xqUXVOVjk0TmpRdGMyVjBkWEF1WlhobENrUmtOMHczZGtkYVMyRXdLM0ZXWmxjeFIyNUhZbTQxYzFWQmFIaFBNMUV5T1RoNlNYZHlPRXhNVjNkMVowUkNiWEIzWjIxUU5UbHJWbWx1Wm5WM1VVNW5WM0paUmtKMFlrcHllVVIzZVZsMWFGTjJZVVJuUFQwSw==",
+      "url": "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.5_x64-setup.exe"
     }
   }
 }
