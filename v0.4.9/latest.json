@@ -1,0 +1,11 @@
+{
+  "version": "0.4.9",
+  "notes": "v0.4.9: 主备源拓扑反转（GitHub主源/Gitee备源，R13）+ 平台格式适配策略统一（R14）+ 发布管线弱网加固（R15 plumbing）",
+  "pub_date": "2026-08-16T08:01:18Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWx1RXJrRHJseTZUTkJROGF0QnlkWVpZTlR1K0s4Q0Naa3E5SXB2VVlJaVRhcURqL2Q3REVLanpMZWlHN3JGMTVkV0Exa0xkc3oyNWcwdWsyNDFYcUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODYzNzQ0CWZpbGU6QklTVV8wLjQuOV94NjQtc2V0dXAuZXhlCm1WdnN3R3E1c212TWJFdHJKNXVZYkphWFcvN0NMZkwxSzNTOUNLYUxjcGhCL2xDblYrNFpoZE41RG1PMUpZSDNOYnVLcUdFWmpmRDdXejl5Z2lGN0JBPT0K",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.9/BISU_0.4.9_x64-setup.exe"
+    }
+  }
+}
