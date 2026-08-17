@@ -1,11 +1,11 @@
-﻿{
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW5DUjJjZldqVzFyZjNuTnlGamlZRWZOaDZDZU9LSGRGN1lIZ0M4US9ZYzVOUGlxeXFkbTBIUlBQMnE4U1MrRmtiMUJUUnhPTEtKY1Z0TkdUbFNxbUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTQwMzIwCWZpbGU6QklTVV8wLjQuMTNfeDY0LXNldHVwLmV4ZQo5MHRQQUlXMVVodE1UR1JpZ2pKelpEZTI4NkhOL3RjR3ZReU41NFlNM0lkREhVY3JBRmRsZDlkN1U1Wk5rZDZxUktPaHlnZkdTMkdpLzkybGN6NEVBUT09Cg==",
-                                             "url":  "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/BISU_0.4.13_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-08-17T12:19:51Z",
-    "version":  "0.4.13",
-    "notes":  "v0.4.13: 东方文墨设计系统升级 + 全量 Debug 修复（20+ CSS 语义变量补齐、重复定义清理、暖色主题100+变量补齐、WorkbenchPanel 视觉翻新）。"
+{
+  "version": "0.4.13",
+  "notes": "v0.4.13: design system upgrade + debug fixes",
+  "pub_date": "2026-08-17T12:19:51Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUlc1RFVqSmpabGRxVnpGeVpqTnVUbmxHYW1sWlJXWk9hRFpEWlU5TFNHUkdOMWxJWjBNNFVTOVpZelZPVUdseGVYRmtiVEJJVWxCUU1uRTRVMU1yUm10aU1VSlVVbmhQVEV0S1kxWjBUa2RVYkZOeGJVRm5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk9UUXdNekl3Q1dacGJHVTZRa2xUVlY4d0xqUXVNVE5mZURZMExYTmxkSFZ3TG1WNFpRbzVNSFJRUVVsWE1WVm9kRTFVUjFKcFoycEtlbHBFWlRJNE5raE9MM1JqUjNaUmVVNDFORmxOTTBsa1JFaFZZM0pCUm1Sc1pEbGtOMVUxV2s1clpEWnhVa3RQYUhsblprZFRNa2RwTHpreWJHTjZORVZCVVQwOUNnPT0=",
+      "url": "https://gitee.com/king2030/bisu/releases/download/v0.4.13/BISU_0.4.13_x64-setup.exe"
+    }
+  }
 }
