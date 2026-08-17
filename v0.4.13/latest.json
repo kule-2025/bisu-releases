@@ -1,10 +1,10 @@
 {
   "version": "0.4.13",
-  "notes": "BISU v0.4.13 - 东方文墨设计系统升级 + 全量Debug修复（主题CSS变量全量重构/WorkbenchPanel东方文墨视觉/WorkBuddy圆角面板/229单元测试全绿）",
-  "pub_date": "2026-08-17T12:16:46Z",
+  "notes": "BISU 0.4.13 东方文墨设计系统升级 + 全量 Debug 修复",
+  "pub_date": "2026-08-17T16:01:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWh6cm00a0JZMzE5aUtpUFVrY3QrR2ZzUGsxeitHN0Y5VVNMM0VreXZHMEtJREJyQUlwSnUrOEw0VGFIWnZNVVR2NWdoVUNxV0E2WkVMZXBZcjhzcGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTY4NzczCWZpbGU6QklTVV8wLjQuMTNfeDY0LXNldHVwLmV4ZQpleXVISVMrejNEQ0h3akhaTzRYdk14SjhmTG82cWxqUlNCcEdFc0xHRnM3MEFCelAwaDRFL21TZ1I3blYwcFFVN3VBaFdsdlhBN0JudnlpTTcyUjVDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXJLdE5SQjZ0c1ZYR1RiRHVMeTV0by95cXhpMW1BbnFERHAzVTExT0g1U0U0K0NIL0lKMnpiUS9KR0JVYkxFQlNsY0x4S2ltWlVJOHIyOTFXdFFWcXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTc3MjA3CWZpbGU6QklTVV8wLjQuMTNfeDY0LXNldHVwLmV4ZQpBTmsyQVA3dWx6L1pUd00vNzFnVm5yQlRrU295eXdiYnZab0lFMmU4RVRsT1orVDZaVHVxV0VFaHl2M09OV1VPRUpHakp2eEc1WHlmVEZpd0J6R0NBQT09Cg==",
       "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.13/BISU_0.4.13_x64-setup.exe"
     }
   }
