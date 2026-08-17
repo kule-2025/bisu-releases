@@ -1,0 +1,11 @@
+{
+  "version": "0.4.7",
+  "notes": "BISU 0.4.7 更新：弱网环境下也能顺利检测到新版本，升级链路三重保障；版本发布页现可正确显示最新版本号；补全历史版本存档；多项稳定性优化。建议所有用户更新。",
+  "pub_date": "2026-08-15T12:11:12Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUldwWU9XMVZkWEZIVVU1RVltRnZWRzVvSzFOMlpHTk9UbTE0YzNkdlFrMTBlazR3V1UxUEx5OWhMMWxqTkN0TE1VRmpRamNyWlVwNWFVeFNSR0UzVkZWT1kwNHliU3RTVTJad1NqRXZNbEZuWkRGdlVtZHJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk56azFOemt5Q1dacGJHVTZRa2xUVlY4d0xqUXVOMTk0TmpRdGMyVjBkWEF1WlhobENrNUJNVzVwSzNvM05rTTRWRVZQWkdkQ1lrOWlWR1F6V21sdmVtSk5aVkJNTjFjdmFIZGtPU3QxV0hKQ01XWTRlSGhNWmtRd1lXeHJhV0pyVlhCRk9XVnNWemd4UnpoTlEwNXZUV2RGWkdnM1ltazVPVUZuUFQwSw==",
+      "url": "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.7_x64-setup.exe"
+    }
+  }
+}

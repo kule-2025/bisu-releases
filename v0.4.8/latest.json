@@ -1,0 +1,11 @@
+{
+    "version":  "0.4.8",
+    "notes":  "v0.4.8: 修复更新签名校验(InvalidEncoding)；工作台统计接入真实数据；编辑器工具栏增强；新 Logo 全局落地；多项稳定性优化。建议所有用户更新。",
+    "pub_date":  "2026-08-16T04:02:38Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXBIU1p0TDZ0a2hJeUUydEhCUmdONS9KS21UOW1MOGxYeEhDSDl6SFNhNmliYUZXRU9LcU45bVlGTlM4ZGhlaHhPRjlrSHB0MVJlaWRybXgrZG1SV3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2ODUwNjU1CWZpbGU6QklTVV8wLjQuOF94NjQtc2V0dXAuZXhlClNEaHVhTExVWlZwQjZqdENTdVFtSGU4L2UvZC85NU9VbEc3Q0FHVlZ2emR1eEd6ZGsreHdrY3h4T3ZUL3dicE9UbEZ4UDhiRFhPRjVMYkxFcDhtdURnPT0K",
+                                             "url":  "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.8_x64-setup.exe"
+                                         }
+                  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.4.6",
+  "notes": "BISU v0.4.6：性能修复（36页面按需加载/主包-57%）+ 构建产物纯净门禁（R9）+ 混淆修复，安装包 12.4MB→7.9MB",
+  "pub_date": "2026-08-15T09:55:33Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUlhRNGJqZHlaVE5oYVhOMUwwd3hSVGRFUzNCbldYUnFRWEJwZVdsS01VOXNXVGw2TkdSak5FUmxTMGxDUjJ4T1RqZG5jVkJyTTFreFpESnVVM2hQWTFVMmR5dFZMM2hwWm1GUlJEQkplRTF3U0Voa2JsRlZQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnMk56ZzNOek16Q1dacGJHVTZRa2xUVlY4d0xqUXVObDk0TmpRdGMyVjBkWEF1WlhobENqRndSQzlOWWsxallqQkNVWGxITm1NM09WTktWVUYxZWs1aVJtbHhNbkJhZVhWTE5UQnliazVPUmpOTUt6YzNUSE56YzA0eGFVcEZWekZHVjBWc1JVMDRNbU5SYlZBd2VFdFdaVnB5UTBsRGJFdFdaa0pCUFQwSw==",
+      "url": "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.6_x64-setup.exe"
+    }
+  }
+}

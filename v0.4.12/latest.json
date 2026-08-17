@@ -1,0 +1,11 @@
+{
+  "version": "0.4.12",
+  "notes": "BISU v0.4.12（多角色专家团 P0/P1 全量评测修复）：IPC 双保险参数对齐 + Zustand Selector/useCallback 状态流优化 + 孤立组件 8 模块分级兜底框架 + ESLint 假门禁根治 + 部署方法论 R14 五支柱",
+  "pub_date": "2026-08-17T01:04:26Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXF6SHd1aXY5Y0hzTWhNbENocmg5WDNYM3poZmhGL2xRVFhicUswKytlUzFVRUk5ZlpYTGR0eDgwbjFUYS8wK2ZuSlBFUVowLzRGL2lDNDdadHZnNHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTI4NjY2CWZpbGU6QklTVV8wLjQuMTJfeDY0LXNldHVwLmV4ZQp6M1RKSDluaFlELzAwcnhybXNUNkdkenNhSVBsQ25tVG9hbjkyTDUwWm0zcy9YMXkraURRTVlXSUlCZDFpVFppMEpqTFRsRzI1YkpWcmNTTElkUnhDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.12/BISU_0.4.12_x64-setup.exe"
+    }
+  }
+}
