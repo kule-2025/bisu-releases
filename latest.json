@@ -1,11 +1,11 @@
 {
   "version": "0.4.13",
-  "notes": "v0.4.13: design system upgrade + debug fixes",
-  "pub_date": "2026-08-17T12:19:51Z",
+  "notes": "BISU v0.4.13 - 东方文墨设计系统升级 + 全量Debug修复（主题CSS变量全量重构/WorkbenchPanel东方文墨视觉/WorkBuddy圆角面板/229单元测试全绿）",
+  "pub_date": "2026-08-17T12:16:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW5DUjJjZldqVzFyZjNuTnlGamlZRWZOaDZDZU9LSGRGN1lIZ0M4US9ZYzVOUGlxeXFkbTBIUlBQMnE4U1MrRmtiMUJUUnhPTEtKY1Z0TkdUbFNxbUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTQwMzIwCWZpbGU6QklTVV8wLjQuMTNfeDY0LXNldHVwLmV4ZQo5MHRQQUlXMVVodE1UR1JpZ2pKelpEZTI4NkhOL3RjR3ZReU41NFlNM0lkREhVY3JBRmRsZDlkN1U1Wk5rZDZxUktPaHlnZkdTMkdpLzkybGN6NEVBUT09Cg==",
-      "url": "https://gitee.com/king2030/bisu/releases/download/v0.4.13/BISU_0.4.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWh6cm00a0JZMzE5aUtpUFVrY3QrR2ZzUGsxeitHN0Y5VVNMM0VreXZHMEtJREJyQUlwSnUrOEw0VGFIWnZNVVR2NWdoVUNxV0E2WkVMZXBZcjhzcGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTY4NzczCWZpbGU6QklTVV8wLjQuMTNfeDY0LXNldHVwLmV4ZQpleXVISVMrejNEQ0h3akhaTzRYdk14SjhmTG82cWxqUlNCcEdFc0xHRnM3MEFCelAwaDRFL21TZ1I3blYwcFFVN3VBaFdsdlhBN0JudnlpTTcyUjVDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.13/BISU_0.4.13_x64-setup.exe"
     }
   }
 }
