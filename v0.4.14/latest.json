@@ -1,0 +1,11 @@
+{
+  "version": "0.4.14",
+  "notes": "BISU 0.4.14 版本迭代升级",
+  "pub_date": "2026-08-18T00:22:09Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXBNVk51ZUtVNnRHTm5TdVdZOFFIRVRZUzREbk9EWUdlODJpSFNqTUhGdkdWT1F2bzJxYjRuUUtTbWhDSHo2bHZwbVdOVjBMU3JGdTNFNGtaSTZHaHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDEyNDg5CWZpbGU6QklTVV8wLjQuMTRfeDY0LXNldHVwLmV4ZQpiTUZVZisxR2NtQVRRMnVhUlpkbG1YR0pBSmpGOXI4cUFNN3JpSGhvTWxqOW1aU2JFbXYzaEpmbnFXTXdFY3FTd2xTQUExbWdUWENWeUtJb1YxSlNEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.14/BISU_0.4.14_x64-setup.exe"
+    }
+  }
+}
