@@ -1,0 +1,11 @@
+{
+  "version": "0.4.15",
+  "notes": "BISU ==SUPPRESS== release",
+  "pub_date": "2026-08-20T06:19:55Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW1WU3JtUG9HQUhPcXk2Z2hoSlNMc2VrUGhZT0JqQ0wzaTdFU2NLcDBXSEs3THRHVVcycFpPYlU2aTZHZGlGMVpUTnNXODVNY0pJK0RESlpCSHZPYXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjA2NTcyCWZpbGU6QklTVV8wLjQuMTVfeDY0LXNldHVwLmV4ZQpYcTNzVElQUitvNno4TkZwbWJtZ1l0c0NKV3plZXdmckZOVHdieWV1d1FGTWMwSm5aRjVVVlEvYU1ubDJsTDFmcFdvT240RHNaNmlpb24zb1BaeG5Bdz09Cg==",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.15/BISU_0.4.15_x64-setup.exe"
+    }
+  }
+}
