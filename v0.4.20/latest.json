@@ -1,7 +1,7 @@
 {
   "version": "0.4.20",
   "notes": "UI对齐WorkBuddy + 修复签名校验",
-  "pub_date": "2026-08-25T11:38:49Z",
+  "pub_date": "2026-08-25T11:42:04Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXY1a1ZEekpWMHNDUGwxcUJBbk5vQldXR0lCNmJTK1Z5TTBacjNlQTFKYWtVUjdDK21BSzQvOWtteFRnbDBoVmNVR2FUejQ2cFpFMjRLVjlWd3JCa1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjUzMjI4CWZpbGU6QklTVV8wLjQuMjBfeDY0LXNldHVwLmV4ZQpEK2ZhcG05TVNrR1o2bThweHBUK0FyeXo3Vm9vSUM4elhCQXdObG5ISXhLU2haT2k3b1VDa2tFNkJNRWtsOFZsRHZ5WXp1ZFZIMDM5QlVFQlVSbERBQT09Cg==",
