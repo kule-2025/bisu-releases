@@ -1,11 +1,13 @@
 {
-  "version": "0.4.16",
-  "notes": "BISU ==SUPPRESS== release",
-  "pub_date": "2026-08-22T06:45:11Z",
+  "version": "0.4.19",
+  "name": "BISU v0.4.19",
+  "notes": "UI对齐WorkBuddy - logo统一+侧边栏精简+输入栏药丸按钮",
+  "pub_date": "2026-08-24T09:25:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW51S3JGUDRxQk9ibUllaC9tQm1UVGtkV2cvMUdGWWJUMWhIWjhlTjh0eUVvbHUza1BXdWVaZXVzMllMTVI0bjdYbnZHSEYxS1IxcDdmTUhzYmdCandnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzgxMDE3CWZpbGU6QklTVV8wLjQuMTZfeDY0LXNldHVwLmV4ZQo3TWFiblNDaUx2UDZCL3U4S1Y5ZFBEYUVKNXlZZTNEcGlNc0ZNbzQ2WWFNejNjZFRna0djK29SampVUkI4Ly9hNmtMZVRlRlhYZS9ZNlJJRXgrSHpDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.16/BISU_0.4.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW4rU1lvSmxML2RrVUJHaGtFV2dvS1M5eHh3aDFIOW9lVEZML2VmbkF3MkRWQ2pXSFV3RGFOTy94K0YwRThTZm5Md0NRMWFVMERHaGN0WnU1bFJhY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTM0Njk1CWZpbGU6QklTVV8wLjQuMTlfeDY0LXNldHVwLmV4ZQpMVmhmUEpEalQ2eWlNUlZ4MjU2VDlNR1NYcUIxdmdmUk5ObDZKbE5jWkk5QWNnMnV1d1Z5cmZ0ZTIrQTl6R2h0Z2FqcWVWTE5aL1VnRldqQllSSTJCdz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.19/BISU_0.4.19_x64-setup.exe",
+      "size": 8507392
     }
   }
 }
