@@ -1,11 +1,11 @@
 {
-  "version": "0.4.29",
-  "notes": "v0.4.29 淇鏇存柊锛歕n1. 淇妯″瀷鍒囨崲澶辫触锛圫QL璇硶閿欒锛歟xists淇濈暀瀛楁敼涓篶nt锛塡n2. 杈撳叆妗嗚嚜閫傚簲楂樺害浼樺寲锛坢axHeight 180->400, maxRows 6->12锛塡n3. 澧炲己琛ュ叏鍔熻兘浼樺寲锛堜繚鐣欑敤鎴峰師濮嬫剰鍥撅紝涓嶅緱鍑┖鏉滄挵锛?,
-  "pub_date": "2026-08-31T09:30:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWswak9OMHdqNU9BZGVsUGFIakpWNjl4VnpEbTNWbEs5WTB4TmZUbHM4MGpkZmQxTUZaSXM2R0prS0pQTEpXR0dDV3BFeDVwYVgybzU2U2Ezb0lqcXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTg3NTg5CWZpbGU6QklTVV8wLjQuMjlfeDY0LXNldHVwLmV4ZQp4eUk1dUdTUTlTSVhaY1d3Sk40RUNCWmc4ZEVDdWdxSVlrekIvUmdVV2VHT29MQUNCaUNyaXBMRFJRaUM5RmtXQlphTVVqc1pPeVVKa0NhVytYWjlEdz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.29/BISU_0.4.29_x64-setup.exe"
-    }
-  }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWswak9OMHdqNU9BZGVsUGFIakpWNjl4VnpEbTNWbEs5WTB4TmZUbHM4MGpkZmQxTUZaSXM2R0prS0pQTEpXR0dDV3BFeDVwYVgybzU2U2Ezb0lqcXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTg3NTg5CWZpbGU6QklTVV8wLjQuMjlfeDY0LXNldHVwLmV4ZQp4eUk1dUdTUTlTSVhaY1d3Sk40RUNCWmc4ZEVDdWdxSVlrekIvUmdVV2VHT29MQUNCaUNyaXBMRFJRaUM5RmtXQlphTVVqc1pPeVVKa0NhVytYWjlEdz09Cg==",
+                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.29/BISU_0.4.29_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-08-31T09:30:00Z",
+    "version":  "0.4.29",
+    "notes":  "v0.4.29 修复更新：1. 修复模型切换失败（SQL语法错误）；2. 输入框自适应高度优化；3. 增强补全功能优化（保留用户原始意图）"
 }
