@@ -1,11 +1,11 @@
 {
-  "version": "0.4.27",
-  "notes": "v0.4.27 全局改版+账号体系+项目列表交互：4等级买断制账号体系(AI不收费)、许可证密钥/兑换码/设备绑定、侧边栏三分组+付费锁标识、项目列表hover⋯菜单+置顶+橙色高亮、工作台暖橙化、设置页账号与许可证分区、作者卡片账号菜单、全局蓝紫残留清理",
-  "pub_date": "2026-08-29T12:26:18Z",
+  "version": "0.4.29",
+  "notes": "v0.4.29 淇鏇存柊锛歕n1. 淇妯″瀷鍒囨崲澶辫触锛圫QL璇硶閿欒锛歟xists淇濈暀瀛楁敼涓篶nt锛塡n2. 杈撳叆妗嗚嚜閫傚簲楂樺害浼樺寲锛坢axHeight 180->400, maxRows 6->12锛塡n3. 澧炲己琛ュ叏鍔熻兘浼樺寲锛堜繚鐣欑敤鎴峰師濮嬫剰鍥撅紝涓嶅緱鍑┖鏉滄挵锛?,
+  "pub_date": "2026-08-31T09:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXVQbkRLbzliZEs1QU5COStnNTk5TnFuNEJ5TU1RL2FBSWhXaGZhMkRMWkpTRjJjdTNTeC9GTmY3YnczV0FIeFVrUG00dGE4UHMwTFJ5VkErR0hlWHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDA2MzU3CWZpbGU6QklTVV8wLjQuMjdfeDY0LXNldHVwLmV4ZQpOQnR4cUs5L1NYV3Q4cFU2bSt2ZDFOV1hkNVFsUzRPNGhaSXhyZVlWajlPUzQ1WUhvSWJmbHVRanpnQzEyMElJZS9BOU91Vm8zcmF0VDhnVzFWNjhEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.27/BISU_0.4.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWswak9OMHdqNU9BZGVsUGFIakpWNjl4VnpEbTNWbEs5WTB4TmZUbHM4MGpkZmQxTUZaSXM2R0prS0pQTEpXR0dDV3BFeDVwYVgybzU2U2Ezb0lqcXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTg3NTg5CWZpbGU6QklTVV8wLjQuMjlfeDY0LXNldHVwLmV4ZQp4eUk1dUdTUTlTSVhaY1d3Sk40RUNCWmc4ZEVDdWdxSVlrekIvUmdVV2VHT29MQUNCaUNyaXBMRFJRaUM5RmtXQlphTVVqc1pPeVVKa0NhVytYWjlEdz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.29/BISU_0.4.29_x64-setup.exe"
     }
   }
 }
