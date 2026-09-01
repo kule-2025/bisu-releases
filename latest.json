@@ -1,11 +1,11 @@
 {
-  "version": "0.4.34",
-  "notes": "BISU v0.4.34 - 创作中心4分类独立页面 + 角色关系图谱",
-  "pub_date": "2026-09-01T09:23:51Z",
+  "version": "0.4.35",
+  "notes": "BISU v0.4.35 - 全局UI/UX改版 + 账号体系重构",
+  "pub_date": "2026-09-01T21:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWlFWXVwQzZXTVE2aDdBVHZodU82c3FtT3hZWTY2M0JIdk04bzJLaGpGU2hYNVRuN1F1Zm1hbmZ6WnRXSkpaSzIwdUlEa3FCcjZ2aTZDK2s3dE9IL1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjU0NDM1CWZpbGU6QklTVV8wLjQuMzRfeDY0LXNldHVwLmV4ZQp1RGV6STlNM3Fpcjd3K3NIbndLdS9KZE4zS2RHaUVxZ3liU2hERWxrd3UyY2FQZTNobVorZVUwSU02UVliMHQwN2wxMitteFJpSklXTkk2MHhrSlVCUT09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.34/BISU_0.4.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXBQczFoSmVQbmVyNzJldjh0YzN5eVNVRDNaTzZneFB6eDl2TFhCdmMxTFpwVzBGMmhvZGtaSVZNa3R5a3V4OWpqSmFpZlBaVTBRcnZjZVhIRHk3WlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjY5NTY3CWZpbGU6QklTVV8wLjQuMzVfeDY0LXNldHVwLmV4ZQpHZXRVNFNMNG9vdW1oU1NDOTRIQmpvZjMwQ1ZMZUV4aDI5NWN2eFpWeldDVG9ZOWNMbFRkZHI5bG55bldSQWt1Qml5UmJmcThDL2luS2IxVjRTbGVEZz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.35/BISU_0.4.35_x64-setup.exe"
     }
   }
 }
