@@ -1,11 +1,11 @@
 {
-  "version": "0.4.33",
-  "notes": "BISU v0.4.33 - AI错误提示友好化+工作台布局修复：AgentCenter 5处错误处理改用translateError、工作台欢迎卡片右侧按钮不被截断、版本号升级",
-  "pub_date": "2026-09-01T03:56:00Z",
+  "version": "0.4.34",
+  "notes": "BISU v0.4.34 - 创作中心4分类独立页面 + 角色关系图谱",
+  "pub_date": "2026-09-01T09:23:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXJUQWkwc2xlaTNwWEN5b3VxOFFZSjZkWklBT05mM29kMnFaTkg0dUY3TlJONWpURjhJNkFZMkFJM05acWN0OGVjUWE5M0JoRDdKWWhGS084andqb0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjQxMzU2CWZpbGU6QklTVV8wLjQuMzNfeDY0LXNldHVwLmV4ZQpXeFUvSTJwclgrOFJPZ1kvYlJZeWZtU3RYVGQzNHhUVVFMdmF2M3JJREloR1hhRVpBK3MyQWJ2U2cwU0RrZjBucWJ1WFBmbmZFZUVVR29LSWdSY3JEdz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.33/BISU_0.4.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWlFWXVwQzZXTVE2aDdBVHZodU82c3FtT3hZWTY2M0JIdk04bzJLaGpGU2hYNVRuN1F1Zm1hbmZ6WnRXSkpaSzIwdUlEa3FCcjZ2aTZDK2s3dE9IL1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjU0NDM1CWZpbGU6QklTVV8wLjQuMzRfeDY0LXNldHVwLmV4ZQp1RGV6STlNM3Fpcjd3K3NIbndLdS9KZE4zS2RHaUVxZ3liU2hERWxrd3UyY2FQZTNobVorZVUwSU02UVliMHQwN2wxMitteFJpSklXTkk2MHhrSlVCUT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.34/BISU_0.4.34_x64-setup.exe"
     }
   }
 }
