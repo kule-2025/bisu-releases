@@ -1,11 +1,11 @@
 {
-  "version": "0.4.35",
-  "notes": "BISU v0.4.35 - 全局UI/UX改版 + 账号体系重构",
-  "pub_date": "2026-09-01T21:30:00Z",
+  "version": "0.4.36",
+  "notes": "BISU v0.4.36 - 全面代码审查修复：14处空catch块错误日志增强、12处硬编码颜色替换为CSS变量、蓝紫色残留清理、workflow节点主题统一",
+  "pub_date": "2026-09-02T13:42:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXBQczFoSmVQbmVyNzJldjh0YzN5eVNVRDNaTzZneFB6eDl2TFhCdmMxTFpwVzBGMmhvZGtaSVZNa3R5a3V4OWpqSmFpZlBaVTBRcnZjZVhIRHk3WlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MjY5NTY3CWZpbGU6QklTVV8wLjQuMzVfeDY0LXNldHVwLmV4ZQpHZXRVNFNMNG9vdW1oU1NDOTRIQmpvZjMwQ1ZMZUV4aDI5NWN2eFpWeldDVG9ZOWNMbFRkZHI5bG55bldSQWt1Qml5UmJmcThDL2luS2IxVjRTbGVEZz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.35/BISU_0.4.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWtvcUhuOVlZK3dtekJYY0EzKzlUUmcyK1BWWkVnTStaN1RsWVZTdmIwVEY2SHZROWlUcDdUYmdVQjdFRjgvLy9wYjFDUUVJbWo2Z3JFUWd0NU5PcndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzU2NTA2CWZpbGU6QklTVV8wLjQuMzZfeDY0LXNldHVwLmV4ZQpPL2VmWGV5RDdHelUzeHFpK0NYLy80emF2bWkwOHJGSFJJSDFuS2VGYTJlVEJueVZpbisrQVFNMkJVRmlsaEJYNDUxMEtZTVhvaGVPVFFYanNSdmVDZz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.36/BISU_0.4.36_x64-setup.exe"
     }
   }
 }
