@@ -1,11 +1,11 @@
 {
-  "version": "0.4.39",
+  "version": "0.4.40",
+  "notes": "BISU v0.4.40 - 全局改版（7项）：新建作品按钮修复、设置占位符修复、账号页面去重、视频API接入、工作台修复、排行榜崩溃修复、排行榜与炼字工坊对齐（网文风向标）",
   "pub_date": "2026-09-03T12:00:00Z",
-  "notes": "BISU v0.4.39 - 全局UI/UX改版（7项）：色彩对齐竞品、会员体系重设计、欢迎卡片优化、付费墙改进、排行榜真实数据修复、字体字号统一、移除重复logo",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW5PMWh2bytRVFlUZlZZTVNjSWJkcU8rRjdYMm9NcWJ0dlpIbGt4Z0c0NFV5blBLK0IxNU1rZktsQ1kvaG9Ya3d4ZXR2czM2aTZucUF5aHE0L1dXYlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDIwODYwCWZpbGU6QklTVV8wLjQuMzlfeDY0LXNldHVwLmV4ZQpxeUQ5Zko3UisvUnB1VW5KK1BFNG55V00xb0ticzFCd3FjdVJkL2JGbXFIVGJxbXVNbENnLzNRamY2WE9PaU1hVVVXSFFTclppbzgwazBiaHluMUFDZz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.39/BISU_0.4.39_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWdEdlpkRkFzblMxRkFwbFVMb3hsOWNiSE9MSEc4UTJJbXdxVE44NHFZaGNSQXhJeTdNSUwxRzdnR2hHeHBzVnJ6Y1pYNldHSjAxdkNEUXRodnNua2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDM0NjMzCWZpbGU6QklTVV8wLjQuNDBfeDY0LXNldHVwLmV4ZQpwcVNzNFJBaGlkZ05BOGpQQmo0UHF4OEVoZ2xVSmlRdWk0akl5VGIrL1lKeE1YMjhkK29iL3F4M3NCSG1FclRvaGxvNFFmTmM5S2trMmhraHppNmxEdz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.40/BISU_0.4.40_x64-setup.exe"
     }
   }
 }
