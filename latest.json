@@ -1,11 +1,11 @@
 {
-  "version": "0.4.36",
-  "notes": "BISU v0.4.36 - 全面代码审查修复：14处空catch块错误日志增强、12处硬编码颜色替换为CSS变量、蓝紫色残留清理、workflow节点主题统一",
-  "pub_date": "2026-09-02T13:42:27Z",
+  "version": "0.4.37",
+  "notes": "BISU v0.4.37 - 全局改版升级：\n1. 强制登录注册：未登录用户无法进入主界面，需注册或登录后使用\n2. 付费功能页面级拦截：知识库/去AI味/发布中心/风格档案四大付费功能，免费版点击直接显示付费墙，无法查看内容\n3. 全局色调色系统一：技能中心/智能体中心从深色改为浅色主题，与全局暖橙+清新绿黄配色对齐\n4. 全局字体字号统一：核心页面使用标准6级字号阶梯（H1=20px/H2=16px/H3=14px/Body=13px/Caption=12px/Micro=11px）\n5. 排行榜真实数据修复：修复番茄小说fallback解析误匹配分类导航链接的问题，添加37个分类词过滤，确保显示真实书名而非分类名称\n6. 发布中心平台对齐：修正番茄小说网址（fanqie.auto→fanqienovel.com），新增飞卢小说和纵横中文网，统一6平台预设（番茄/起点/晋江/飞卢/纵横/自定义）",
+  "pub_date": "2026-09-03T06:09:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWtvcUhuOVlZK3dtekJYY0EzKzlUUmcyK1BWWkVnTStaN1RsWVZTdmIwVEY2SHZROWlUcDdUYmdVQjdFRjgvLy9wYjFDUUVJbWo2Z3JFUWd0NU5PcndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzU2NTA2CWZpbGU6QklTVV8wLjQuMzZfeDY0LXNldHVwLmV4ZQpPL2VmWGV5RDdHelUzeHFpK0NYLy80emF2bWkwOHJGSFJJSDFuS2VGYTJlVEJueVZpbisrQVFNMkJVRmlsaEJYNDUxMEtZTVhvaGVPVFFYanNSdmVDZz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.36/BISU_0.4.36_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWtDQjFNTjNmK2hyQ29TQWZNdW14Z1pSdGt0OHlnd29UV3dvZDN0YnM0YitqL2RoY2ZyeGtBb1JoWlI1U1BnM3NCNlJsNnpHZHZtOGYzMDg3b0dlRHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDE1NzY4CWZpbGU6QklTVV8wLjQuMzdfeDY0LXNldHVwLmV4ZQpYNFNYYVJnNXBlZkowL3A3OUR6WXhQbDBJR0lySHRLajJ4MS91UzBsdVJUZnZHME5LK1VXNDJpQzJOMWR2aVhzZFRSMHFWK3hVdXNUNzRZUWkxUnVCdz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.37/BISU_0.4.37_x64-setup.exe"
     }
   }
 }
