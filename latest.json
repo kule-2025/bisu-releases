@@ -1,11 +1,11 @@
 {
-  "version": "0.4.42",
-  "notes": "BISU v0.4.42 - 账号会员体系重构：4档定价（免费版¥0/专业版¥29月/团队版¥99月/终身版¥299）、侧边栏账号信息展示（参考WorkBuddy模式）、等级对比弹窗、账号页展示、修复应用内更新检测问题",
-  "pub_date": "2026-09-04T08:00:00Z",
+  "version": "0.4.43",
+  "notes": "BISU v0.4.43 - UI改版：左下角账号区登录后显示用户账号名称（替代固定作者），默认头像改用BISU软件logo；工作台顶部问候语排版异常修复（响应式换行+最小宽度保护）；全局主要/选中功能按键色彩从深色(#1F2937)调整为明快橙色主题色(#F97316→#EA580C渐变)",
+  "pub_date": "2026-09-04T08:50:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXVwTFNreUoyZHEwWFErK2dwT1BORUlNOHMwZjVOd0VIY2U3NFNmRXlzQ0Frb05yNWdVOHJ3QzBRU1MzazhoYksyT29UWGtzZ3VhQ2Z2UHR4Z3NGYXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDkxODcwCWZpbGU6QklTVV8wLjQuNDJfeDY0LXNldHVwLmV4ZQpVSUlqZlZ2eC9lZFdiS0FaK3FJS2NOWXUzT2xCd1c1UXc4TnI4RitOMnJhcTBnTmdKcFhNSDZSQ3NGeWQ0eGZmZ25CN2xGKzNZQmlCanB6UHZhQ25EQT09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.42/BISU_0.4.42_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWkxeHM0VUpGMUIvcUE1dDJjNjdVblZwL29qUXNRZk80SkwreCtyeENGdkhZQ0ZkQytXYlAyVUJTVC9ucWxNSFN0dHkxZVg5em13UzVLM203MlJVandrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTExNDk2CWZpbGU6QklTVV8wLjQuNDNfeDY0LXNldHVwLmV4ZQpwRjlCVUpCaS9VTnBtczlVR1FiMDVjSllCSEVEMW5rcUVxejZZQS9rRmFVKzlFNzZMNVN2dVJuZWdDTms0aXlwTmZEbC91WFJ3RldpR0JEWlR6STJCUT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.43/BISU_0.4.43_x64-setup.exe"
     }
   }
 }
