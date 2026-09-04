@@ -1,11 +1,11 @@
 {
-  "version": "0.4.43",
-  "notes": "BISU v0.4.43 - UI改版：左下角账号区登录后显示用户账号名称（替代固定作者），默认头像改用BISU软件logo；工作台顶部问候语排版异常修复（响应式换行+最小宽度保护）；全局主要/选中功能按键色彩从深色(#1F2937)调整为明快橙色主题色(#F97316→#EA580C渐变)",
-  "pub_date": "2026-09-04T08:50:00Z",
+  "version": "0.4.44",
+  "notes": "BISU笔溯 v0.4.44\n\n- P0修复：角色/大纲新建失败、错误提示中文化、文件导入选择器\n- 全局色系改版：对齐炼字工坊暖色调\n- 新增超管端（Repository抽象层架构）：用户管理/许可证/团队/系统监控/数据维护\n- 超管端隐藏入口：Ctrl+Shift+D\n- 版本号：0.4.43 → 0.4.44",
+  "pub_date": "2026-09-04T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWkxeHM0VUpGMUIvcUE1dDJjNjdVblZwL29qUXNRZk80SkwreCtyeENGdkhZQ0ZkQytXYlAyVUJTVC9ucWxNSFN0dHkxZVg5em13UzVLM203MlJVandrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTExNDk2CWZpbGU6QklTVV8wLjQuNDNfeDY0LXNldHVwLmV4ZQpwRjlCVUpCaS9VTnBtczlVR1FiMDVjSllCSEVEMW5rcUVxejZZQS9rRmFVKzlFNzZMNVN2dVJuZWdDTms0aXlwTmZEbC91WFJ3RldpR0JEWlR6STJCUT09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.43/BISU_0.4.43_x64-setup.exe"
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUldodk9VWXdNRkp2ZG10bE1XUlVhMHRwWkN0UEswUkxkREpWUW5vdmVrYzNTMWhhT1ZWTlIyNTBTVVpTYnl0TGQweHBlbXhQY25sUWVHdFBVRWhxWmsxWlpIbGxLelJsV21WaWFrbHFUazVNWTFrck5uZE5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnNE5UTXpNVFkyQ1dacGJHVTZRa2xUVlY4d0xqUXVORFJmZURZMExYTmxkSFZ3TG1WNFpRcFdjMk51ZVROQ1ltVkNjMVZrWW5rNFRtbE9URkpzTHpCR1pVOXRPVk5CU2s1alYxbDBaR1ZsTDBJeVF6RkpNa0phTTJ0MFMyVTNObTlUUm5ORmVtWXJPVUpsYkRNMGFuSklaRzVRUkRRMU9GSlFUelZEVVQwOUNnPT0=",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.44/BISU_0.4.44_x64-setup.exe"
     }
   }
 }
