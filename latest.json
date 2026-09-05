@@ -1,11 +1,11 @@
 {
-  "version": "0.4.44",
-  "notes": "BISU笔溯 v0.4.44\n\n- P0修复：角色/大纲新建失败、错误提示中文化、文件导入选择器\n- 全局色系改版：对齐炼字工坊暖色调\n- 新增超管端（Repository抽象层架构）：用户管理/许可证/团队/系统监控/数据维护\n- 超管端隐藏入口：Ctrl+Shift+D\n- 版本号：0.4.43 → 0.4.44",
-  "pub_date": "2026-09-04T12:00:00Z",
+  "version": "0.4.48",
+  "notes": "BISU v0.4.48 发布说明\n\n【修复项】\n1. P-02: 确认NovelKnowledge嵌入配置UI已完整接线（v0.4.46已完成）\n2. P-04: OutlinePage树形视图使用后端outlineListTree接口，含notes/tags/children递归展示\n3. P-09: ShortStory数据模型结构化存储（元数据存tags，短篇列表存content），向后兼容旧格式\n4. P-18: Workbench项目字数从DB动态加载，修复硬编码为0的问题\n\n【构建信息】\n- Rust: cargo build --release --offline (0 warning)\n- TypeScript: tsc --noEmit (0 error)\n- 前端: vite build (混淆启用)\n- 安装包: NSIS 7.46MB + minisign签名\n",
+  "pub_date": "2026-09-05T09:34:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUldodk9VWXdNRkp2ZG10bE1XUlVhMHRwWkN0UEswUkxkREpWUW5vdmVrYzNTMWhhT1ZWTlIyNTBTVVpTYnl0TGQweHBlbXhQY25sUWVHdFBVRWhxWmsxWlpIbGxLelJsV21WaWFrbHFUazVNWTFrck5uZE5QUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnNE5UTXpNVFkyQ1dacGJHVTZRa2xUVlY4d0xqUXVORFJmZURZMExYTmxkSFZ3TG1WNFpRcFdjMk51ZVROQ1ltVkNjMVZrWW5rNFRtbE9URkpzTHpCR1pVOXRPVk5CU2s1alYxbDBaR1ZsTDBJeVF6RkpNa0phTTJ0MFMyVTNObTlUUm5ORmVtWXJPVUpsYkRNMGFuSklaRzVRUkRRMU9GSlFUelZEVVQwOUNnPT0=",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.44/BISU_0.4.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXRxZkIyQWVBK1NkT3pIa2JKR1lBazU5ck02c1NvaEtGQzhCUTRxTmo3eWhrVWFka0FZQ3p0aVN4K291WjlLTEN6VzMwVmwrdnJPaXllSERDVXB3bVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjAwNzg4CWZpbGU6QklTVV8wLjQuNDhfeDY0LXNldHVwLmV4ZQpkSWtER3pHUGd1V0NnaTkxSUFqOWpoUUdJSFVSRFpaM3JaWWk0eWk1empYamtSQXVvSk9iY3djd2VyTUJCdi8xTTdUbldHeWNuSTZJS3FrN25iNVVEQT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.48/BISU_0.4.48_x64-setup.exe"
     }
   }
 }
