@@ -1,10 +1,10 @@
 {
   "version": "0.4.48",
-  "notes": "修复v0.4.48安装后无法打开(前端dist未嵌入导致ERR_CONNECTION_REFUSED)重建版",
-  "pub_date": "2026-09-05T14:46:39Z",
+  "notes": "v0.4.48 修复版：修复安装后localhost拒绝连接问题。根因：Cargo.toml未启用custom-protocol feature导致Tauri进入开发模式回退devUrl。修复：启用custom-protocol feature，前端资源正确打包进exe。",
+  "pub_date": "2026-09-06T14:12:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXNKTnYybHNNSml6aTZWak0xVHV6a3JxYmNwdUowempsa0VVS0xQdTFoUEhPbElZTGJXNVdxcDFHNGR2RElNYmo1Unc1bHNoKzg4U1RkdDQ3RU9hc1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjE5NTk5CWZpbGU6QklTVV8wLjQuNDhfeDY0LXNldHVwLmV4ZQpUYk9YUE9rM0IvSG5xYzA4dk5jNGVhdzNiSUUwZnY5TmZnQTZ4S1FkMU13czJUZkpPWWlEN1AvZXJnMGxqRWh2dzl2MmdibDNZWWFLOGJMVVp2VzNCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXZUQVVnNXhFWGl2YzN5VzdLN1ljdkF4cTFCYjg0eUFiZitWK0VqYk1jbTVhVVJ3cFo5QmhpQVJUZFQ1RFVwcVNQNFoyTEhGNE8yTjZJbS9BRlFIdVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzAzMjU0CWZpbGU6QklTVV8wLjQuNDhfeDY0LXNldHVwLmV4ZQplbDBvZVIweDZsM3VhcnM0TU9jeXZHVmVzdThtUlhZU2d4SnlIak9pVGpaeUpkTzJjaHNqWVNKKzA4MHhnQ1JDa0VoTXlKMkcrY2RzOHAxdW1IK1RBUT09Cg==",
       "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.48/BISU_0.4.48_x64-setup.exe"
     }
   }
