@@ -1,11 +1,10 @@
 {
-  "version": "0.4.48",
-  "notes": "v0.4.48 修复版：修复安装后localhost拒绝连接问题。根因：Cargo.toml未启用custom-protocol feature导致Tauri进入开发模式回退devUrl。修复：启用custom-protocol feature，前端资源正确打包进exe。",
-  "pub_date": "2026-09-06T14:12:06Z",
+  "version": "0.4.49",
+  "pub_date": "2026-09-10T14:53:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXZUQVVnNXhFWGl2YzN5VzdLN1ljdkF4cTFCYjg0eUFiZitWK0VqYk1jbTVhVVJ3cFo5QmhpQVJUZFQ1RFVwcVNQNFoyTEhGNE8yTjZJbS9BRlFIdVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzAzMjU0CWZpbGU6QklTVV8wLjQuNDhfeDY0LXNldHVwLmV4ZQplbDBvZVIweDZsM3VhcnM0TU9jeXZHVmVzdThtUlhZU2d4SnlIak9pVGpaeUpkTzJjaHNqWVNKKzA4MHhnQ1JDa0VoTXlKMkcrY2RzOHAxdW1IK1RBUT09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.48/BISU_0.4.48_x64-setup.exe"
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.49/BISU_0.4.49_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW85TW1CaStLQWNNMFdUQ1Z4ZU5xK3RLTjYzT01URGdmUUJ1N1IvdHcxZnpjMmtIZ2xFWWFlZGwyZkkzekFadlozVExjaUp3L1VQYzYrMXNlZXQ5bEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDUxOTcyCWZpbGU6QklTVV8wLjQuNDlfeDY0LXNldHVwLmV4ZQpxZnA0S2V6amk4eVkweDQ3WnlGZi8wZmRhMXR5V1NsMGRnK0VyVUdiU252TGtvQVZwV3JFMEpSNm1VTkFEcEtlSk1TZnA1OWx5YjExMEZSOG5pSG5EQT09Cg=="
     }
   }
 }
