@@ -1,10 +1,11 @@
-﻿{
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.51/BISU_0.4.51_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWpGVGp1QkpYb1JZTUNtRnhvQkF4UG43Q2tzWkhnQnNqZTBIREFoMTVJOUk2ekFkQittZndrMVM1RlRwQW82eHZJbVlWcG5iL3RZWWVUNk9BOUxoK1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE5MjAyCWZpbGU6QklTVV8wLjQuNTFfeDY0LXNldHVwLmV4ZQpGZHROOFpvK3pRKzZRblhUV3V5NUNFaXd6aGpoWHZmOHNKeXY1dE5HYUxtd1RtUVZCdE5FMXJtbkl4YjdyUS9maU1WVTBoVVRoL1NiVFFZa1FPVlFBZz09Cg=="
-                                         }
-                  },
-    "pub_date":  "2026-09-11T09:33:22Z",
-    "version":  "0.4.51"
+{
+  "version": "0.4.51",
+  "notes": "v0.4.51 hotfix: 修复useBisuAppState.ts中refreshGrowth TDZ启动崩溃bug",
+  "pub_date": "2026-09-11T11:36:10Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWhhU1k2bzNXR0pWS0xjYXdyRnIvUW9ramZ1c2VVRTFTOU4zaEExd2taV3RyOG9XaFZtWjVudkZBV2FGUEswYjFmL2VRZzhUeFFIN05JNkpZNmJRRmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTI2MjE3CWZpbGU6QklTVV8wLjQuNTFfeDY0LXNldHVwLmV4ZQpGcWZpNkorZk45K2RpKzZXVWU4NFhndEVMRTlad2E0QlA3c3pNVXpLd0NmYmhRVVBPL3YwbGh6dW1xdVhiQ012R1czSWUwUGNNbUNVc1BJVHc2ZnBEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.51/BISU_0.4.51_x64-setup.exe"
+    }
+  }
 }
