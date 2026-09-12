@@ -1,11 +1,11 @@
 {
-  "version": "0.4.51",
-  "notes": "v0.4.51 hotfix: 修复useBisuAppState.ts中refreshGrowth TDZ启动崩溃bug",
-  "pub_date": "2026-09-11T11:36:10Z",
+  "version": "0.4.53",
+  "notes": "v0.4.53全量增强：云端同步Repository抽象层+同步引擎、平台API直连抽象层（番茄/起点/晋江/七猫）、AI对话多会话持久化、写作体验增强（拼写检查/查找替换/格式工具栏）、角色增强（出场统计/一致性检查/AI深度生成）、世界观增强（模板/一致性检查）、支付网关抽象层、17张新数据库表（v13迁移）、约70条Tauri命令、2个新前端页面",
+  "pub_date": "2026-09-12T01:49:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWhhU1k2bzNXR0pWS0xjYXdyRnIvUW9ramZ1c2VVRTFTOU4zaEExd2taV3RyOG9XaFZtWjVudkZBV2FGUEswYjFmL2VRZzhUeFFIN05JNkpZNmJRRmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTI2MjE3CWZpbGU6QklTVV8wLjQuNTFfeDY0LXNldHVwLmV4ZQpGcWZpNkorZk45K2RpKzZXVWU4NFhndEVMRTlad2E0QlA3c3pNVXpLd0NmYmhRVVBPL3YwbGh6dW1xdVhiQ012R1czSWUwUGNNbUNVc1BJVHc2ZnBEdz09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.51/BISU_0.4.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXB6VklBc3NBb0pIS3JjYUdyOWNSMldBZ1FlTERPbDd3dm5obDNtSld3c2NST01xMVZUV2lSZ2RJSVJTYjJIdktveFRFTE5QZ2ErNUJwM3dBNXZIWVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTc3MzU0CWZpbGU6QklTVV8wLjQuNTNfeDY0LXNldHVwLmV4ZQo2LzYwMnlKM1FzTTFVMDNna0ViWjZSWThyemZNQnRyK3QrdCtVQi9KaUJDMWp4eFJzc1F5MFVyeWYyK3UrL0NySVNqUXdyY0M4TjYvQkhYSUdCRXJEUT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.53/BISU_0.4.53_x64-setup.exe"
     }
   }
 }
