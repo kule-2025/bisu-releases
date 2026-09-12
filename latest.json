@@ -1,11 +1,11 @@
 {
-  "version": "0.4.56",
-  "notes": "v0.4.56迭代：1)云端Phase3增量同步差分上传+Phase4实时协同CRDT骨架；2)榜单抓取扩展起点/晋江(含反爬UA池/令牌桶/验证码检测)；3)作品快照正文备份(zlib压缩+安全回滚+详情浏览+v16迁移)；4)tsc清理8个类型错误达0错误；5)变现看板跨作品聚合(全部作品视图+作品对比+平台分布)",
-  "pub_date": "2026-09-12T06:22:15Z",
+  "version": "0.4.57",
+  "notes": "v0.4.57迭代：1)质量保障自动化5项措施(命令注册检查/前后端契约类型生成/ESLint规则包/TODO清零/权限单一来源)；2)10大痛点解决度77.5%->98.5%(萌新引导/卡文推荐/AI去痕/榜单对标/长篇一致性/质量门/多平台发布/变现/云端协同/成长路径)；3)AI去痕化深度增强(Top3对标+4轮消痕+7维拟人度雷达+平台检测模拟)；4)云端协同Phase3表级增量同步+Phase4 CRDT实时协同+团队四级权限；5)性能优化(路由懒加载/虚拟列表/数据库索引/WAL模式)；6)42个新增后端命令",
+  "pub_date": "2026-09-12T00:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXJxMzVhTzA1MVBMRlR0Ynl2TDBBUUE4OHVSeEh2QTJ3RExCWXV0NkdXSitYb0RhYXhGYnRXVHRvYjJRZEpTVy9UMjZtTjJpZlhSTm9ydFQveFdkd1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTk0MTA1CWZpbGU6QklTVV8wLjQuNTZfeDY0LXNldHVwLmV4ZQpFR2wwOFBxWnVxSFpod090MFQrTDVNMGwvQmRCaEVJb0VHYzYxMXFPL1pzSFBDS3VFc0wvNmFUM2diZk1EeElBTmFsaXoxYjRRNUxseC9Xa3lpbW9EZz09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.56/BISU_0.4.56_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWpmN1JKU29Ra1p3dlowN0xoa0RQdlFqQTVhVEpnVVRzbjBFTDArM0U3eFFhQ0lMSklrU3RXS1pkUHlGK1lqWVF5UEJPZ0NMcSsyVy9mTUNMTk9WNVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjI1NjgyCWZpbGU6QklTVV8wLjQuNTdfeDY0LXNldHVwLmV4ZQpvT0VDM1dwQWZKZXM2bTdFWjFSZWloUWkyd1VQalpsL1VPcXpEUk96U0V6TVVUUTZQQzBOdUFBUHVzdjVROWM1RmJBamZyTFF5M3N4MHhORGxINkhDdz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.57/BISU_0.4.57_x64-setup.exe"
     }
   }
 }
