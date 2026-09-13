@@ -1,16 +1,16 @@
 {
   "version": "0.4.57",
-  "notes": "BISU v0.4.57 - 修复登录P0 bug（account_login命令未注册），全面修复增强优化",
-  "pub_date": "2026-09-13T00:24:45.000Z",
+  "notes": "BISU v0.4.57 - 修复登录P0 bug(account_login命令注册)、标题栏乱码、添加用户协议和隐私政策、修复AppPageRouter编码混乱",
+  "pub_date": "2026-09-13T02:10:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWpmN1JKU29Ra1p3dlowN0xoa0RQdlFqQTVhVEpnVVRzbjBFTDArM0U3eFFhQ0lMSklrU3RXS1pkUHlGK1lqWVF5UEJPZ0NMcSsyVy9mTUNMTk9WNVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MjI1NjgyCWZpbGU6QklTVV8wLjQuNTdfeDY0LXNldHVwLmV4ZQpvT0VDM1dwQWZKZXM2bTdFWjFSZWloUWkyd1VQalpsL1VPcXpEUk96U0V6TVVUUTZQQzBOdUFBUHVzdjVROWM1RmJBamZyTFF5M3N4MHhORGxINkhDdz09Cg==",
+      "signature": "",
       "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.57/BISU_0.4.57_x64-setup.exe"
     }
   },
   "extra": {
     "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.57",
-    "sha256": "e7240880b5f755d23517d44006ccb490ed295ff77fc1966f1d4b4d3c57fe70b6",
-    "size": 9904788
+    "sha256": "2dac00c51554629b9ec876b6d485638cc0dfe94196ef99bdb28870ad3cced209",
+    "size": 9706694
   }
 }
