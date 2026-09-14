@@ -1,11 +1,16 @@
 {
-  "version": "0.4.62",
-  "notes": "BISU v0.4.62 版本升级迭代",
-  "pub_date": "2026-09-14T07:31:26Z",
+  "version": "0.4.63",
+  "notes": "BISU v0.4.63 - 三大最高危根因修复(前后端类型契约/数据库迁移幂等/许可证密钥环境变量化)；P0安全整改(许可证双轨验证/Ed25519模块/7个脚本硬编码密钥清除)；P0后端支付(9个新端点/JWT加固/速率限制/微信支付宝沙箱)；P1功能增强(backup5命令/分块读取器/动态虚拟滚动/6步新手引导/Ctrl+K命令面板)；护城河构建(AI模型聚合路由/AES-256-GCM分块加密/Argon2id密钥派生/风格指纹库/开发者API)；302+测试用例通过",
+  "pub_date": "2026-09-14T12:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWdDRWxKZDhYWjdvRCtXV0krTTlwMDVhMUNmTmMxWGhYb2JqK2kzaFlCaW03MDVCWm5FMlo5VTluQndOTHRtZjcvaXREekljdys0U2I2aG5RWkdsaGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzcxMDg2CWZpbGU6QklTVV8wLjQuNjJfeDY0LXNldHVwLmV4ZQphZmtjS09PNDF4Rm9paGpLTEQ2SUl2WEJnb1pRWVdHOWh3c0ZhTi9KWFp3bHdweUw5bWZkb3NzNE5BQzYxUGs0MnNUZ1F4WHVjZUg1VFIrUGNTQWtEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.62/BISU_0.4.62_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXFzaUVoSzdUbXNKemhidTZqZDZmOFN6RTM0NHNXU2dSbUM3VEF1Zy9RMVArR2VHYmtNdzEycDIxRGYxMTJxNjM5cjBvS1lNUktJK2htQ1JndkRQS1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mzg4NzI0CWZpbGU6QklTVV8wLjQuNjNfeDY0LXNldHVwLmV4ZQo0aWxVOXhBYjV2a2NTQlR6WVl2b0h2QWEyVlNMa3ROcFExclZTdXJuZEc1alVxMFM5NHFrcUgrcjdsY3RkWG5UYjlYTWxRdlhmdWVxWG5CMm1uZXNEdz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.63/BISU_0.4.63_x64-setup.exe"
     }
+  },
+  "extra": {
+    "gitee_url": "https://gitee.com/king2030/bisu/raw/master/BISU_0.4.63_x64-setup.exe",
+    "sha256": "BCEB2869E96F52FA158924AD8AEF135509E74BC94C5A25D0D19F00281F161826",
+    "size": 10741365
   }
 }
