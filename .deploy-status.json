@@ -1,7 +1,0 @@
-{
-  "workflow": "Release Build",
-  "head_sha": "f9b8027f97068757304ae8d057430e1a1799668b",
-  "conclusion": "failure",
-  "updated_at": "2026-09-16T03:52:14Z",
-  "reported_at": "2026-09-16T03:09:58Z"
-}
