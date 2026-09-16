@@ -1,0 +1,11 @@
+{
+  "version": "0.4.70",
+  "notes": "v0.4.70: React #310 Hooks修复 + 错误边界增强 + 全书设定索引引擎基础框架 + 稳定性提升",
+  "pub_date": "2026-09-16T06:36:10Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWxCWisxMFhWb3JLWGcyQmxLZFNPNkRqbUtzMVg4UThvOC9CMk9pbmdUdnkybXc1S3BzYmE3cys1QXR6dlNLUDM5WkRTaVlCQm1NK0szQmhMYVoyWEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTQwNDYzCWZpbGU6QklTVV8wLjQuNzBfeDY0LXNldHVwLmV4ZQpiMU5ZY2xZU3NXeW1waTVKeWFJZ2lrQXA4QUxYVGlHSlVUZGVNaHRHM1h2SklCV3lONVI4WFNFNGJNZFFTTFcrVnpYOWUrT0YyNnBUT1ZURGxqa01EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.70/BISU_0.4.70_x64-setup.exe"
+    }
+  }
+}
