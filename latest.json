@@ -1,16 +1,16 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXZoMWx1NEE2dzhHdlpYNU4xOURGRG9BOGhhcGxMZE5ENlphTEJlOWpSaFB6Z3Y2YUJkT3ZTR0JCdmNTcTBtMHFrQ2txckJGdXVDZWxDd0xWM0luaHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQyOTIxCWZpbGU6QklTVV8wLjQuNzdfeDY0LXNldHVwLmV4ZQowK1BKQXhVdlM0Mm1Ld0h4eWp6ckRxQ0ljcnovVis1ZEQ2ZERxNjZadnlCMUs3OE1WbjZZQVdtT0Rhczd1L3dpMXMwZDQzbjNGNCs5QTlsUkJSdHNBQT09Cg==",
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.77/BISU_0.4.77_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-09-17T00:00:00.000Z",
-    "version":  "0.4.77",
-    "extra":  {
-                  "gitee_url":  "https://gitee.com/king2030/bisu/releases/tag/v0.4.77",
-                  "sha256":  "A979B004ECD65D7AB5E4D8B85EDCB2195EA23D9F7959AC194E5A8B7E0FD24F02",
-                  "size":  10923511
-              },
-    "notes":  "BISU v0.4.77 - 全量修复与性能优化：列表虚拟化(4页面-85%DOM减少)、全局Context拆分(5store)、后端事务包裹与panic风险消除、API层统一(66命令分类)、as any断言修复(-31%)、静默catch清除(-100%)、UI/UX优化、错误边界集成、性能监控、Toast系统、快捷键增强、搜索筛选、Cargo profile内存优化"
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHJzaWduIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXFpTkU1WnI2aWJld1c2UVUyaS8yKzFqcHVQTnh5QVcxN0xXSUlsTW9LNFRBUU5FTW1rWmN1eEpyaU85a1NBblI2ZFUrMFRGOVhjS3pNZmdKeno5ZEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjU3MzA0CWZpbGU6dGFyZ2V0XHJlbGVhc2VcYnVuZGxlXG5zaXNcQklTVV8wLjQuNzhfeDY0LXNldHVwLmV4ZQlwcmVoYXNoZWQKbXgzeUMvM3FjTHdUSGtlRzZzOXpMRkhsS0ZtR1M0bzRsNUU4bEdsUHB6TTJaSEZPbXUwS01rMGxYTFhHblI1KzJLR3B5b0IyWHVweDZyOXlSYktnQkE9PQo=",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.78/BISU_0.4.78_x64-setup.exe"
+        }
+    },
+    "pub_date": "2026-09-17T00:00:00.000Z",
+    "version": "0.4.78",
+    "extra": {
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.78",
+        "sha256": "4F292ECDA3455D1CC1F450540F61EF141289BE77E8E3B526C11A03E27A09988E",
+        "size": 10937231
+    },
+    "notes": "BISU v0.4.78 - Desktop icon rounded-corner redesign: orange #E8652A opaque background + white nib logo + 25% corner radius; all-platform icons (ico/icns/png/Windows Store/iOS/Android) regenerated; closeBundle obfuscation enabled; visual identity upgrade only, no functional changes"
 }
