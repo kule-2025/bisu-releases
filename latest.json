@@ -1,16 +1,16 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHJzaWduIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWpYMWJnUjJvRjFnOHdhVWV3ZWhWSW9zWjRiR3Z6QXViREk5TEpaa3JBeWFoUEJPQWNhTmtPdjFWb0x3Uk9NUHhmWlRwNmoxZDZxTTdYRVpSV0gwalFvPQp0cnVzdGVkIGNvbW1lbnQ6IGZpbGU6QklTVV8wLjQuNzVfeDY0LXNldHVwLmV4ZQo0amFXejUvdW9ZNTZ4WnAvL0lxMHdwZGp3RGVSc05SZUdjbkRxZDJGanZIeURKRUUydUxaMlB3NzF1c2xiWlVVSlVVQnczRUh3Q3JZbmMybCtQMXJEZz09Cg==",
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.75/BISU_0.4.75_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXZoMWx1NEE2dzhHdlpYNU4xOURGRG9BOGhhcGxMZE5ENlphTEJlOWpSaFB6Z3Y2YUJkT3ZTR0JCdmNTcTBtMHFrQ2txckJGdXVDZWxDd0xWM0luaHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQyOTIxCWZpbGU6QklTVV8wLjQuNzdfeDY0LXNldHVwLmV4ZQowK1BKQXhVdlM0Mm1Ld0h4eWp6ckRxQ0ljcnovVis1ZEQ2ZERxNjZadnlCMUs3OE1WbjZZQVdtT0Rhczd1L3dpMXMwZDQzbjNGNCs5QTlsUkJSdHNBQT09Cg==",
+                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.77/BISU_0.4.77_x64-setup.exe"
                                          }
                   },
     "pub_date":  "2026-09-17T00:00:00.000Z",
-    "version":  "0.4.75",
+    "version":  "0.4.77",
     "extra":  {
-                  "gitee_url":  "https://gitee.com/king2030/bisu/releases/tag/v0.4.75",
-                  "sha256":  "AC93E0842FB5FBF4165DF5D1FCA53825E9DFD7833116A488725FA61313DEA68A",
-                  "size":  11207747
+                  "gitee_url":  "https://gitee.com/king2030/bisu/releases/tag/v0.4.77",
+                  "sha256":  "A979B004ECD65D7AB5E4D8B85EDCB2195EA23D9F7959AC194E5A8B7E0FD24F02",
+                  "size":  10923511
               },
-    "notes":  "BISU v0.4.75 - 剩余问题全量修复+系统密钥链集成+依赖安全加固：第二轮安全审计修复(常量时间比较+日志脱敏全覆盖)、Windows Credential Manager系统密钥链集成(secure_store_get/set)、前端4项输入验证加固、npm audit修复5个生产依赖漏洞、CSP unsafe-inline架构评估"
+    "notes":  "BISU v0.4.77 - 全量修复与性能优化：列表虚拟化(4页面-85%DOM减少)、全局Context拆分(5store)、后端事务包裹与panic风险消除、API层统一(66命令分类)、as any断言修复(-31%)、静默catch清除(-100%)、UI/UX优化、错误边界集成、性能监控、Toast系统、快捷键增强、搜索筛选、Cargo profile内存优化"
 }
