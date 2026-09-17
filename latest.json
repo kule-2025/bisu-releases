@@ -1,11 +1,16 @@
 {
-  "version": "0.4.72",
-  "notes": "BISU v0.4.72 - 空间模块全栈增强（添加/删除/移除/重命名）、ND0101目录不存在错误根因修复、平台适配器半自动发布实现、QualityAnalysis路由接入、支付沙箱状态机完善、性能优化",
-  "pub_date": "2026-09-16T12:24:32Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXR3YXRFT0l5dXFDdjJiZVFsS0lUZFRmSmVsS04ra2NIbWtLUlpqT2Ftb2NSY2VJU0pwYUszMWdhK1BSQkk4eFJ2ZDBNTkNqSU50VU9qdzEybHpaZUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTYxNDcyCWZpbGU6QklTVV8wLjQuNzJfeDY0LXNldHVwLmV4ZQpUbVpwQWhIVE92SkpNVTZoaUYvWHozdlAzdzYrZlh3ZmdjbndmOHhXSFRqMkZsYXlSNTlubndoY2FhL3hOZ2dxZk9HNXNjb2Q4c1JjOHoxYWhUTjZDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.72/BISU_0.4.72_x64-setup.exe"
-    }
-  }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXFxUlZaUXhkZENHRDB4SHJ3K3FQNHloakc4bktVR0dpZmxrVHZpeEZRQndRVnhnemFQbVJxYStMQndaRHZtQzBvL1FPTlBKYTZtYzEwQjRtc3N5R0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjE5NzcxCWZpbGU6QklTVV8wLjQuNzRfeDY0LXNldHVwLmV4ZQpCRWlZb2JoL2lXQWQ1dnBnV016dGF1dVZKWjIwcFR6NzJZL2tqa3c2Zm1JVFVoOUE4dkw4UFFqNmpCKzJNa0lKZ2d4dERCdHJucVFLb0VBdUNkclZDQT09Cg==",
+                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.74/BISU_0.4.74_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-17T00:00:00.000Z",
+    "version":  "0.4.74",
+    "extra":  {
+                  "gitee_url":  "https://gitee.com/king2030/bisu/releases/tag/v0.4.74",
+                  "sha256":  "8373A36DB8A5C5E79E7347B97D4A192664286500DA0B961371666163B0B1E75E",
+                  "size":  11183799
+              },
+    "notes":  "BISU v0.4.74 - 全面安全加固版本：21项安全审计问题全量修复（3高危+4中危+4低危+10信息项），Ed25519许可证验证落地、私钥移出项目、前端secureStorage移除硬编码密钥、SQL注入防护、日志脱敏、统一错误处理"
 }
