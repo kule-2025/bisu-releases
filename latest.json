@@ -1,16 +1,11 @@
 {
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHJzaWduIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXFpTkU1WnI2aWJld1c2UVUyaS8yKzFqcHVQTnh5QVcxN0xXSUlsTW9LNFRBUU5FTW1rWmN1eEpyaU85a1NBblI2ZFUrMFRGOVhjS3pNZmdKeno5ZEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjU3MzA0CWZpbGU6dGFyZ2V0XHJlbGVhc2VcYnVuZGxlXG5zaXNcQklTVV8wLjQuNzhfeDY0LXNldHVwLmV4ZQlwcmVoYXNoZWQKbXgzeUMvM3FjTHdUSGtlRzZzOXpMRkhsS0ZtR1M0bzRsNUU4bEdsUHB6TTJaSEZPbXUwS01rMGxYTFhHblI1KzJLR3B5b0IyWHVweDZyOXlSYktnQkE9PQo=",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.78/BISU_0.4.78_x64-setup.exe"
-        }
-    },
-    "pub_date": "2026-09-17T00:00:00.000Z",
-    "version": "0.4.78",
-    "extra": {
-        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.78",
-        "sha256": "4F292ECDA3455D1CC1F450540F61EF141289BE77E8E3B526C11A03E27A09988E",
-        "size": 10937231
-    },
-    "notes": "BISU v0.4.78 - Desktop icon rounded-corner redesign: orange #E8652A opaque background + white nib logo + 25% corner radius; all-platform icons (ico/icns/png/Windows Store/iOS/Android) regenerated; closeBundle obfuscation enabled; visual identity upgrade only, no functional changes"
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWtaT21HN0RMbXBidTdkR2Urcm0xZUtqdmNoTUFHU2ZnNS9VM08rS3YrT2V6YmNnUlRhTENqVTRFeDRSUnUwL09VRkNiRFJoOXNVN3FYdkFVdE94NUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzIxNjcxCWZpbGU6QklTVV8wLjQuODFfeDY0LXNldHVwLmV4ZQpQOEV3cFQvOFVwK2Q1M1FZUDMzS24xZmUrNTVyY0YzQkVoZEZXT2pPNG0vVVg3YUZSRVhWdDNWbWxpYlJBdGlXUm03VmxORnRvWG1qRlpJbDhkRE9Cdz09Cg==",
+                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.81/BISU_0.4.81_x64-setup.exe"
+                                         }
+                  },
+    "notes":  "BISU笔溯 v0.4.81 - 空间SQLite持久化 + RAG修复 + 无响应修复 + 全屏优化",
+    "pub_date":  "2026-09-18T08:54:51.050Z",
+    "version":  "0.4.81"
 }
