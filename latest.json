@@ -1,11 +1,11 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWtaT21HN0RMbXBidTdkR2Urcm0xZUtqdmNoTUFHU2ZnNS9VM08rS3YrT2V6YmNnUlRhTENqVTRFeDRSUnUwL09VRkNiRFJoOXNVN3FYdkFVdE94NUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzIxNjcxCWZpbGU6QklTVV8wLjQuODFfeDY0LXNldHVwLmV4ZQpQOEV3cFQvOFVwK2Q1M1FZUDMzS24xZmUrNTVyY0YzQkVoZEZXT2pPNG0vVVg3YUZSRVhWdDNWbWxpYlJBdGlXUm03VmxORnRvWG1qRlpJbDhkRE9Cdz09Cg==",
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.81/BISU_0.4.81_x64-setup.exe"
-                                         }
-                  },
-    "notes":  "BISU笔溯 v0.4.81 - 空间SQLite持久化 + RAG修复 + 无响应修复 + 全屏优化",
-    "pub_date":  "2026-09-18T08:54:51.050Z",
-    "version":  "0.4.81"
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUlhGcVZYVXZja015WTNFM1JHOVBaV2xhTnpOc1ZsQnRUVzFxZWt0WGNrVm5NRlJuVW1KNlEzUTFSRGxWVGpkV1NXWmxablJKWTJsd1UyVjBaa05tU2pGQ1JFOU5lbXBPWmtOVk9GUmxRak5KTDJoV2JtZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnNU56TTNPVEE1Q1dacGJHVTZRa2xUVlY4d0xqUXVPRE5mZURZMExYTmxkSFZ3TG1WNFpRbzJVV2s1SzJ4WFEyTlJSV0Y0V0VsTmVsaEhRalU1WTBWSFRHcGhaR0l5U2xoalpGZFFabVIwVG1wVk9UYzNTazlPUzFCb1ExcGtTeTlCVVc5VVNuVjZjRzVVUWs1a2QzSklOMDE1Vld0TVRGTlJibTlDUVQwOUNnPT0=",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.83/BISU_0.4.83_x64-setup.exe"
+    }
+  },
+  "notes": "BISU笔溯 v0.4.83 - 架构修复(quality_gate schema/novel with_conn) + vitest全绿446 + checkpoint断点恢复 + 平台发布容错 + 榜单缓存回退 + 模型切换取消旧流",
+  "pub_date": "2026-09-18T13:25:44.000Z",
+  "version": "0.4.83"
 }
