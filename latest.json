@@ -1,11 +1,16 @@
 {
-    "version": "0.4.85",
-    "notes": "BISU笔溯 v0.4.85 - UI重构+性能优化+API模型自选+全量审计修复",
-    "pub_date": "2026-09-19T07:10:00Z",
+    "version": "0.4.89",
+    "notes": "BISU笔溯 v0.4.89 - 爆款智能体蜂群P0+P1全链路落地：蜂群6步流水线(扩写/评审/重写/deai/质检/产物)、quality_gate自动重写、真实token计量、checkpoint断点续跑、pro门槛；双源安全排查零源码泄漏",
+    "pub_date": "2026-09-19T15:09:24.655Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW5STEhKUDYxa3dSQTJrZ202dW1CNEl5bUtXaEdwR3dTSjVKcnMrUnc2cTJFQmdpZ3lRaVJidk00RFdHNVZPUmRsd01VOUM0QmoweHpSREFUckFVZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODAxNTMzCWZpbGU6QklTVV8wLjQuODVfeDY0LXNldHVwLmV4ZQptWlZRcVR2Y1VJNHlRSG9xN3pHbEtMeU04NlhQbXYxK2hUUXoyUTQwL3JiaVBwbDRmM3g4dFpIT1REd2VnUW9BekxCL3ZPV05QeUVwa09qREVmYkZBdz09Cg==",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.85/BISU_0.4.85_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXR0dmt3K1J6cDgwV0tvb2hlcmpnZnN0ZUhLYmd2QWRYSi8rL3BRUFVDU0ZzekxMUjdGRTV3QkdJOHFBMExaeURkOTJDdTJORGE4NFZZWXYwWU9abmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODMwNTQ0CWZpbGU6QklTVV8wLjQuODlfeDY0LXNldHVwLmV4ZQpJTWM5ZXlkQzQyTW12RGkwcUxOdFFDTE8zSzQ4bXVZMCtDTVVVUUhkckkyczRRMmNRT3loZkg4OWc0bGVzYllrTnllanBEd2lneDFER3hEMytucVZBUT09Cg==",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.89/BISU_0.4.89_x64-setup.exe"
         }
+    },
+    "extra": {
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.89",
+        "sha256": "810DCD31BF8184EB934869A1A2940F986C22C03565B01A4871829C541806355B",
+        "size": 11736865
     }
 }
