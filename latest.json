@@ -1,11 +1,11 @@
 {
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW1DaTlXRzdOZ2dlTkVLSmt4MDlKYmQ5SFB2QkJMZG5ETk94OHJoTHpDRGZ1K0V1amJTbW94anczaEVzSGtOTVNkdW5MaDZPbDFCalBTanhSaWNUMEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkwMjk5CWZpbGU6QklTVV8wLjQuODRfeDY0LXNldHVwLmV4ZQpmVEpqWUNlbGprbHEyTGZ1bHhKaDZ1aXR4U3U3TGlXTktIVXZzTXBSOHRuZmRZNzd0ajljMTdZZ21TZm5EM1ZGVitLa2NpVWNZSE04U3RHWDAxTFlEUT09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.84/BISU_0.4.84_x64-setup.exe"
+    "version": "0.4.85",
+    "notes": "BISU笔溯 v0.4.85 - UI重构+性能优化+API模型自选+全量审计修复",
+    "pub_date": "2026-09-19T07:10:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW5STEhKUDYxa3dSQTJrZ202dW1CNEl5bUtXaEdwR3dTSjVKcnMrUnc2cTJFQmdpZ3lRaVJidk00RFdHNVZPUmRsd01VOUM0QmoweHpSREFUckFVZkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODAxNTMzCWZpbGU6QklTVV8wLjQuODVfeDY0LXNldHVwLmV4ZQptWlZRcVR2Y1VJNHlRSG9xN3pHbEtMeU04NlhQbXYxK2hUUXoyUTQwL3JiaVBwbDRmM3g4dFpIT1REd2VnUW9BekxCL3ZPV05QeUVwa09qREVmYkZBdz09Cg==",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.85/BISU_0.4.85_x64-setup.exe"
+        }
     }
-  },
-  "notes": "BISU笔溯 v0.4.84 - 品牌重塑(竹绿令牌统一) + 五项缺陷修复(最小化一步/侧栏默认展开/卡顿async治理/IPC门禁误报修复/29页链路排查) + 四闸验证(TSC/Vitest446/Cargo/IPC) + 双源部署(GitHub主源+Gitee备源)",
-  "pub_date": "2026-09-19T04:26:27.000Z",
-  "version": "0.4.84"
 }
