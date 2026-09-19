@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "signature": "ZFc1MGNuVnpkR1ZrSUdOdmJXMWxiblE2SUhOcFoyNWhkSFZ5WlNCbWNtOXRJSFJoZFhKcElITmxZM0psZENCclpYa0tVbFZTYUhkRmIwMWpTbkJsUlhGcVZYVXZja015WTNFM1JHOVBaV2xhTnpOc1ZsQnRUVzFxZWt0WGNrVm5NRlJuVW1KNlEzUTFSRGxWVGpkV1NXWmxablJKWTJsd1UyVjBaa05tU2pGQ1JFOU5lbXBPWmtOVk9GUmxRak5KTDJoV2JtZFJQUXAwY25WemRHVmtJR052YlcxbGJuUTZJSFJwYldWemRHRnRjRG94TnpnNU56TTNPVEE1Q1dacGJHVTZRa2xUVlY4d0xqUXVPRE5mZURZMExYTmxkSFZ3TG1WNFpRbzJVV2s1SzJ4WFEyTlJSV0Y0V0VsTmVsaEhRalU1WTBWSFRHcGhaR0l5U2xoalpGZFFabVIwVG1wVk9UYzNTazlPUzFCb1ExcGtTeTlCVVc5VVNuVjZjRzVVUWs1a2QzSklOMDE1Vld0TVRGTlJibTlDUVQwOUNnPT0=",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.83/BISU_0.4.83_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW1DaTlXRzdOZ2dlTkVLSmt4MDlKYmQ5SFB2QkJMZG5ETk94OHJoTHpDRGZ1K0V1amJTbW94anczaEVzSGtOTVNkdW5MaDZPbDFCalBTanhSaWNUMEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzkwMjk5CWZpbGU6QklTVV8wLjQuODRfeDY0LXNldHVwLmV4ZQpmVEpqWUNlbGprbHEyTGZ1bHhKaDZ1aXR4U3U3TGlXTktIVXZzTXBSOHRuZmRZNzd0ajljMTdZZ21TZm5EM1ZGVitLa2NpVWNZSE04U3RHWDAxTFlEUT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.84/BISU_0.4.84_x64-setup.exe"
     }
   },
-  "notes": "BISU笔溯 v0.4.83 - 架构修复(quality_gate schema/novel with_conn) + vitest全绿446 + checkpoint断点恢复 + 平台发布容错 + 榜单缓存回退 + 模型切换取消旧流",
-  "pub_date": "2026-09-18T13:25:44.000Z",
-  "version": "0.4.83"
+  "notes": "BISU笔溯 v0.4.84 - 品牌重塑(竹绿令牌统一) + 五项缺陷修复(最小化一步/侧栏默认展开/卡顿async治理/IPC门禁误报修复/29页链路排查) + 四闸验证(TSC/Vitest446/Cargo/IPC) + 双源部署(GitHub主源+Gitee备源)",
+  "pub_date": "2026-09-19T04:26:27.000Z",
+  "version": "0.4.84"
 }
