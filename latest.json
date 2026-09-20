@@ -1,16 +1,16 @@
 {
-    "version": "0.4.91",
-    "notes": "BISU笔溯 v0.4.91 - 三个P0回归修复：蜂群断点续跑、RAG索引一致性、多模态输入边界修复",
-    "pub_date": "2026-09-20T11:00:00.000Z",
+    "version": "0.4.92",
+    "notes": "BISU笔溯 v0.4.92 - 乱码修复/启动最大化/配色统一/左侧栏重构/灵感推荐实时化/多模型故障转移/断点续传/一键导入/对话区布局/增强补全bug修复/模型名误报修复",
+    "pub_date": "2026-09-20T12:00:00.000Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXRMOFJzQUxXZktaSUN4T1ExRE9xRmZYZmVRcjBrQ2preGM1bG5IT2lzRGxpRXBadjNZdnNkTlM4SWZ3WGFvcGduYUFYbnBNOHZGc3BrVjNidzljTkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYyNjYwCWZpbGU6QklTVV8wLjQuOTFfeDY0LXNldHVwLmV4ZQpXM2xzUVlub0xHUk5CUGdmS3dobjRhTmZ5a2F1RzV6TVpsOUgyS0pGTk1oMXJhQmYwZFFXVXRqZU16M0R6a25IY1V4OXhpQ3BoTThJaWVFZHovY01BQT09Cg==",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.91/BISU_0.4.91_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW9nNEhiQXJaNGp6NXpIVldpakpaK3QvMjBWdzRMbzFWUTFDNFFVSzNpZWF6ZzZvMWNjc0hhSlljNXVIMjFHSDc2ZWwxYUJoby9iNG13dzhHRFdidkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODcxMjQ0CWZpbGU6QklTVV8wLjQuOTJfeDY0LXNldHVwLmV4ZQpEYXNhU2I1V2g0YzZmNEJsSDliSGpsQmxFcDErS29XTEovSUhqMFBkaTBRbTJYVFgzUjJVbUVKWDVWWE1rdlhmaWY1K2NublhaNUcxV0F4N0I4MVBEQT09Cg==",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.92/BISU_0.4.92_x64-setup.exe"
         }
     },
     "extra": {
-        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.91",
-        "sha256": "723A80EB4422AC37D867AB8FECFE32D203B31AEEFAF97735965CF2D94206D17C",
-        "size": 11735488
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.92",
+        "sha256": "3E475004ADCFAA6154B27472E0D29AF2087979A78EF97EE45D824CFCBF79B3F9",
+        "size": 11723939
     }
 }
