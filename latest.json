@@ -1,16 +1,16 @@
 {
-    "version": "0.4.93",
-    "notes": "BISU笔溯 v0.4.93 - AI创作页版面重构/消息居中/蜂群人格选择/发送按钮修复",
-    "pub_date": "2026-09-20T13:00:00.000Z",
+    "version": "0.4.94",
+    "notes": "BISU笔溯 v0.4.94 - 视觉改版五轮：v3设计token落地/全局色板字重行高间距统一/气泡语义解绑/组件小字归token/全面排查0缺陷",
+    "pub_date": "2026-09-20T14:00:00.000Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWtZRExvUjRZckJEV3R0NXJ5NXUwUXgvT3BNOGZWTmJBL1gxYUtURE1yKzBDWVY4ZDBGSlFSS1RIY01VQ1Qzd1EzTE9iSDd4Y09pUEtYOGNSQzRjekE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODc0MTE3CWZpbGU6QklTVV8wLjQuOTNfeDY0LXNldHVwLmV4ZQoyNHlscURUb3VwRTNuckFkQ0FDZ0pTRVJXem5SejRlcmFieUtJZGltMmVkL1d4UzI3Wjk2b3FORU80cjhuV3FkTWpvUkNvcWdnNTFRUkJlWlRldTdEUT09Cg==",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.93/BISU_0.4.93_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXZHQVlZZGVrQnpVbGpvc0Nad1V3VGZrM2FlY0hlekVlMUF0YTFoM3hBVEtObTV6S0V2VmJmTlVQWkdhdkVnYVYrelMzZ1ZZMEM3RFhtaXYvMVVBZHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTA2MjExCWZpbGU6QklTVV8wLjQuOTRfeDY0LXNldHVwLmV4ZQo3dmdsbms1RTFncW5GRmhsOTJNWnhmTlNkaGwxR3ZLWkN3ODNnOS9ubFpRb0loQ2tkRkNGV0E3dUZCVExSVDV3RnJ4cHl0ZkltTERrWjdVdk1MUXFCZz09Cg==",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.94/BISU_0.4.94_x64-setup.exe"
         }
     },
     "extra": {
-        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.93",
-        "sha256": "C815DCF7AEDCB020B3CFEFACDBDA89BA1E5A897B77DC1B00FFC6CBCDD021DE8F",
-        "size": 11737252
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.94",
+        "sha256": "68BE33C51B6E8631932312B8A4C03F394E29D82FB3CE33563BE7475E06BC083B",
+        "size": 11742444
     }
 }
