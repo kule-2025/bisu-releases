@@ -1,16 +1,16 @@
 {
-    "version": "0.4.89",
-    "notes": "BISU笔溯 v0.4.89 - 爆款智能体蜂群P0+P1全链路落地：蜂群6步流水线(扩写/评审/重写/deai/质检/产物)、quality_gate自动重写、真实token计量、checkpoint断点续跑、pro门槛；双源安全排查零源码泄漏",
-    "pub_date": "2026-09-19T15:09:24.655Z",
+    "version": "0.4.91",
+    "notes": "BISU笔溯 v0.4.91 - 三个P0回归修复：蜂群断点续跑、RAG索引一致性、多模态输入边界修复",
+    "pub_date": "2026-09-20T11:00:00.000Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXR0dmt3K1J6cDgwV0tvb2hlcmpnZnN0ZUhLYmd2QWRYSi8rL3BRUFVDU0ZzekxMUjdGRTV3QkdJOHFBMExaeURkOTJDdTJORGE4NFZZWXYwWU9abmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODMwNTQ0CWZpbGU6QklTVV8wLjQuODlfeDY0LXNldHVwLmV4ZQpJTWM5ZXlkQzQyTW12RGkwcUxOdFFDTE8zSzQ4bXVZMCtDTVVVUUhkckkyczRRMmNRT3loZkg4OWc0bGVzYllrTnllanBEd2lneDFER3hEMytucVZBUT09Cg==",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.89/BISU_0.4.89_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXRMOFJzQUxXZktaSUN4T1ExRE9xRmZYZmVRcjBrQ2preGM1bG5IT2lzRGxpRXBadjNZdnNkTlM4SWZ3WGFvcGduYUFYbnBNOHZGc3BrVjNidzljTkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODYyNjYwCWZpbGU6QklTVV8wLjQuOTFfeDY0LXNldHVwLmV4ZQpXM2xzUVlub0xHUk5CUGdmS3dobjRhTmZ5a2F1RzV6TVpsOUgyS0pGTk1oMXJhQmYwZFFXVXRqZU16M0R6a25IY1V4OXhpQ3BoTThJaWVFZHovY01BQT09Cg==",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.91/BISU_0.4.91_x64-setup.exe"
         }
     },
     "extra": {
-        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.89",
-        "sha256": "810DCD31BF8184EB934869A1A2940F986C22C03565B01A4871829C541806355B",
-        "size": 11736865
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.91",
+        "sha256": "723A80EB4422AC37D867AB8FECFE32D203B31AEEFAF97735965CF2D94206D17C",
+        "size": 11735488
     }
 }
