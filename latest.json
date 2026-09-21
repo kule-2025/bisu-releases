@@ -1,16 +1,16 @@
 {
-    "version": "0.4.98",
-    "notes": "BISU笔溯 v0.4.98 - P0质量门/创作记忆/侧栏logo/批量路径/模型capabilities统一/RAG API embedding/排行榜反爬/视频弹窗/模型去重/发布中心5步/素材管理/爆款公式/市场情报/消痕批量/智能体对话框/全量走查",
-    "pub_date": "2026-09-21T04:00:00.000Z",
+    "version": "0.5.0",
+    "notes": "BISU笔溯 v0.5.0 - 深度走查/AIChatPanel三按钮清理/聚焦图标改target/无新增回归",
+    "pub_date": "2026-09-21T05:00:00.000Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWh0UzhxMDlPTFFrczZWUzBBclFqMzhIa2ptc3NXbmxCZVB3eC9BdnM5NGZmRkI5bTRtM1AwbzVVVVdXb1ZrLzBZWHphUHNRRkdjSnZVLzdSTHFRNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTcxNDA0CWZpbGU6QklTVV8wLjQuOThfeDY0LXNldHVwLmV4ZQphRVV4MUVBd0dMQ2JvMGo2K0ZiTGM2ajQrcS9jRGFMUlo2djRWSU5lYUpqZGNyY21RanErY1pBMFJBTHkrRVR2eWVnM3NQL3laeGpBV0ZHaHY5ZGpCZz09Cg==",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.98/BISU_0.4.98_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXRQVjBFQnRmd2MxYTdxeUxwUkhvVWpTUWFUWGdNT244ck1QTnE4dmpjQ1VkT0FiT2I1OXFnV1FUSEMxNi94Sm9pN3JoV09PV20zbFkrd002Tzc0cmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTczOTY0CWZpbGU6QklTVV8wLjUuMF94NjQtc2V0dXAuZXhlClM5L0F2QVlGcUlPdVh5RFllR1UxK3pxZmF5WElUcVFLK1VhdHFKYnFpOXowWDZJbGJONzdDMyswQUxVeXcySzkvd0pNdG9vVm85YzQxaXJlWE1Nc0J3PT0K",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.5.0/BISU_0.5.0_x64-setup.exe"
         }
     },
     "extra": {
-        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.98",
-        "sha256": "0914A04697A6C077EEB0885BDF812DFE6EF415BCA116E73BCF05A9DE4FB5B80E",
-        "size": 11763167
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.5.0",
+        "sha256": "16D09F057C152213F9A89A2EC40E2F6F9FB256058B21755903DE44D859218229",
+        "size": 11753406
     }
 }
