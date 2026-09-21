@@ -1,16 +1,16 @@
 {
-    "version": "0.4.97",
-    "notes": "BISU笔溯 v0.4.97 - Key401误判修复/登录全屏去橙闪/设置锚点/模型状态刷新/E1-E5业务流/seed清理v40/删除模型bug/润色三按钮另存版本/分层精修状态/评分按钮/event_bus_publish修复/精修6面板排查",
-    "pub_date": "2026-09-21T03:00:00.000Z",
+    "version": "0.4.98",
+    "notes": "BISU笔溯 v0.4.98 - P0质量门/创作记忆/侧栏logo/批量路径/模型capabilities统一/RAG API embedding/排行榜反爬/视频弹窗/模型去重/发布中心5步/素材管理/爆款公式/市场情报/消痕批量/智能体对话框/全量走查",
+    "pub_date": "2026-09-21T04:00:00.000Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWxvR3dZWVBuWUlRNlpVZ3dXNGFOYnNJNjlWZG1JUWVoaWNodWZxRjloemdCMkJSWnVibXhCQnpWUjZidk1PVDZJWkovTUtIcVY0SDlmbUtHQVBTeWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU3MTcwCWZpbGU6QklTVV8wLjQuOTdfeDY0LXNldHVwLmV4ZQowUy8yRFV0a3FGN21CNzRheExIT1FRL1ZHWFJzRFZHckFFTzRGZGNRZml4c2ExVmxiazB5bDUyOFQvK3kxdGRXbWJKSmVQcGFEcVhLYUp2d0o3QWdDQT09Cg==",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.97/BISU_0.4.97_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWh0UzhxMDlPTFFrczZWUzBBclFqMzhIa2ptc3NXbmxCZVB3eC9BdnM5NGZmRkI5bTRtM1AwbzVVVVdXb1ZrLzBZWHphUHNRRkdjSnZVLzdSTHFRNEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTcxNDA0CWZpbGU6QklTVV8wLjQuOThfeDY0LXNldHVwLmV4ZQphRVV4MUVBd0dMQ2JvMGo2K0ZiTGM2ajQrcS9jRGFMUlo2djRWSU5lYUpqZGNyY21RanErY1pBMFJBTHkrRVR2eWVnM3NQL3laeGpBV0ZHaHY5ZGpCZz09Cg==",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.98/BISU_0.4.98_x64-setup.exe"
         }
     },
     "extra": {
-        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.97",
-        "sha256": "9E81CBB0F5EB5E0FA85B937F0670EF3A6FB891A0BFF75974FC443AE2DD605DBF",
-        "size": 11768840
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.98",
+        "sha256": "0914A04697A6C077EEB0885BDF812DFE6EF415BCA116E73BCF05A9DE4FB5B80E",
+        "size": 11763167
     }
 }
