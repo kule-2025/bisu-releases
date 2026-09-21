@@ -1,16 +1,16 @@
 {
-    "version": "0.4.96",
-    "notes": "BISU笔溯 v0.4.96 - 模型连接404文案/窗口最小化修复/输入框工具栏平铺/命令差集核对/migration v39索引/sensetime示例灰显/启动冷备后台化/unused warning清理148→64",
-    "pub_date": "2026-09-21T02:00:00.000Z",
+    "version": "0.4.97",
+    "notes": "BISU笔溯 v0.4.97 - Key401误判修复/登录全屏去橙闪/设置锚点/模型状态刷新/E1-E5业务流/seed清理v40/删除模型bug/润色三按钮另存版本/分层精修状态/评分按钮/event_bus_publish修复/精修6面板排查",
+    "pub_date": "2026-09-21T03:00:00.000Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXJkS1pUeFl2dW4yY3ByWHl2TXN2dzM0UWRqazZ1MitVQzRwRHRsMWNDdGU2T2NwdkFrYjcyWGVSeWRMM1VSS3VTdFUzaWlyNVpRTGdvU01naXhqdUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQ5NjMyCWZpbGU6QklTVV8wLjQuOTZfeDY0LXNldHVwLmV4ZQprL1ROWTNlZHdYQy82U1lsaU04SHdHRUNTTXhXbk9rQ016NWlJVHFqY2drYk5RT3pRc1BSOXN0Y05BRG44KzBnZU5VWDFVOTlXcFhzdTRnYlRldEpEQT09Cg==",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.96/BISU_0.4.96_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWxvR3dZWVBuWUlRNlpVZ3dXNGFOYnNJNjlWZG1JUWVoaWNodWZxRjloemdCMkJSWnVibXhCQnpWUjZidk1PVDZJWkovTUtIcVY0SDlmbUtHQVBTeWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTU3MTcwCWZpbGU6QklTVV8wLjQuOTdfeDY0LXNldHVwLmV4ZQowUy8yRFV0a3FGN21CNzRheExIT1FRL1ZHWFJzRFZHckFFTzRGZGNRZml4c2ExVmxiazB5bDUyOFQvK3kxdGRXbWJKSmVQcGFEcVhLYUp2d0o3QWdDQT09Cg==",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.4.97/BISU_0.4.97_x64-setup.exe"
         }
     },
     "extra": {
-        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.96",
-        "sha256": "828E0A4FC50CABAD2048C92AF2762FCA317C289333BCF3D8F09913028BB07F71",
-        "size": 11755970
+        "gitee_url": "https://gitee.com/king2030/bisu/releases/tag/v0.4.97",
+        "sha256": "9E81CBB0F5EB5E0FA85B937F0670EF3A6FB891A0BFF75974FC443AE2DD605DBF",
+        "size": 11768840
     }
 }
