@@ -1,7 +1,7 @@
 {
   "version": "0.5.1",
   "notes": "v0.5.1 系统级修复：V42 SQL语法错误修复、线程panic隔离、CSS变量嵌套修复、启动自检数据库error修复",
-  "pub_date": "2026-09-22T00:56:57Z",
+  "pub_date": "2026-09-22T00:59:47Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXAxZDQ2ODh5UVJReE5zV3o1R3BWKzZZS0ZkcVQrc1JRWjRwbXFqYUVWcGtqakhuK2hMbmpwYVYvbUQyQW1jUmRyRnBUM1lqbmlsZ2x3c0JONUNwOFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDM4NjAyCWZpbGU6QklTVV8wLjUuMV94NjQtc2V0dXAuZXhlClBRb3pyQ2dEanBiZjRQSnFPUTJUZ09hdGNOYkI0ZlpPQ0xMQWJZcjFUYTBCTm1PNDlCdUplNzQ4Vmw0VU1JTTFZWGMxcXV5WHV5YmR2VGlaM2JaMENnPT0K",
