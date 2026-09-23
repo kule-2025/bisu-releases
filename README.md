@@ -4,7 +4,7 @@
 
 `#网文创作桌面助手` `#爆款小说创作桌面助手` `#爆款网文创作桌面助手` `#网文写作工具` `#桌面写作软件`
 
-> **当前代码版本：0.4.90**（2026-09-20；`package.json` / `Cargo.toml` / `tauri.conf.json` 三处同步；安装包随发布管线双源推送，线上版本以 latest.json 为准）
+> **当前代码版本：0.6.0**（2026-09-23；`package.json` / `Cargo.toml` / `tauri.conf.json` 三处同步；安装包随发布管线双源推送，线上版本以 latest.json 为准）
 
 > 100% 本地离线 · 加密 SQLite · Tauri 2.1 + Rust + React 18 + TypeScript 5.4
 > 不含任何云依赖 · 不收集任何用户数据 · 源码 100% 原创
@@ -37,8 +37,8 @@
 
 | 源 | 地址 |
 |------|------|
-| **GitHub 主源（推荐）** | https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.4.84/BISU_0.4.84_x64-setup.exe |
-| **Gitee 备源（国内直连）** | https://gitee.com/king2030/bisu/releases/download/v0.4.84/BISU_0.4.84_x64-setup.exe |
+| **GitHub 主源（推荐）** | https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.6.0/BISU_0.6.0_x64-setup.exe |
+| **Gitee 备源（国内直连）** | https://gitee.com/king2030/bisu/releases/download/v0.6.0/BISU_0.6.0_x64-setup.exe |
 | **更新元数据（主源）** | https://raw.githubusercontent.com/kule-2025/bisu-releases/main/latest.json （备源：`gitee.com/king2030/bisu/raw/master/latest.json`） |
 
 > 下载后双击安装即可。Windows 10/11 x64，无需额外运行时依赖。
@@ -53,7 +53,7 @@
 
 > **「已发布」的唯一判据是线上更新源**：Gitee `raw/master/latest.json` 与 GitHub `bisu-releases/main/latest.json` 实际报告的版本号，**不是**代码里的 `version` 字段。
 
-- **版本线基准**：线上真实最新版以双源 latest.json 为准；本地构建版本为 **0.4.27**（2026-08-29）。0.4.4 → … → 0.4.20 → 0.4.21 → 0.4.24 → 0.4.25 → 0.4.26 → 0.4.27 版本线持续推进：
+- **版本线基准**：线上真实最新版以双源 latest.json 为准；本地构建版本为 **0.6.0**（2026-09-23）。0.4.4 → … → 0.5.4 → 0.6.0 版本线持续推进：
   - v0.4.4–v0.4.16：均已双源上线（主源 GitHub 归档 `v0.4.4/`–`v0.4.16/` 齐全，tags 同步；备源 Gitee 滚动最新版 + Release）。
   - v0.4.17（2026-08-23）：中间版本，本地 Tauri Release 构建未完成、未产出安装包（见 `.workbuddy/output/v0.4.17-delivery-summary.md`）；功能随 v0.4.18 上线。
   - v0.4.18 / v0.4.19：已构建并本地归档（`bisu-gitee-0418/`、`bisu-gitee-0419/`），线上状态以双源 latest.json 为准。
@@ -63,6 +63,7 @@
   - v0.4.25（2026-08-29）：创作中心对话输入区重构（对齐 WorkBuddy 胶囊工具条、附件框内呈现不灌正文、提示词增强补全外显）、大模型无缝衔接选择器（智能调度 / 自动故障转移、不显示厂商名）、授权三态更名（手动 / 默认 / 完全授权并带注释）、DB schema v4（灵感库 + 统一分析快照 + 今日任务持久化，localStorage 孤岛迁入项目库）、全套品牌 Logo 与面板能力增强，双源部署上线。
   - v0.4.26（2026-08-29）：模型切换失败根因修复（ModelSwitcher 未配置模型标记 + 禁用切换 + 错误提示具体化），双源部署上线。
   - v0.4.27（2026-08-29）：全局改版 + 账号体系 + 项目列表交互——4等级买断制账号体系（免费/专业¥199/终身¥499/团队¥99人月，AI不收费用户自接API Key）、许可证密钥生成/验证/吊销 + 兑换码 + 设备绑定（1-3台）、侧边栏三分组+付费锁标识、项目列表hover⋯菜单+置顶+橙色高亮+3px竖条、工作台暖橙化、设置页账号与许可证分区、作者卡片账号菜单、全局蓝紫残留清理，双源部署上线。
+  - v0.6.0（2026-09-23）：九大深度功能模块全面上线。P0：智能续写引擎增强、节奏分析与优化器、人物一致性守卫、逻辑漏洞扫描器；P1：去AI味深度精修、多平台一键发布、爆款公式库增强；P2：读者模拟器、写作教练。同步修复 RefineProPanel 提取标题/采纳标题/全链路精修、updater.rs flush_now、useBisuAppState localStorage 迁移。双源部署上线。
 - **严格顺序递增**：下一版本 = 线上最新版 **单步 +1**（`x.y.(z+1)`，或 minor/major 进位）。**禁止跳号**、**禁止降级**。
 - **发布流程（本地通道七步闭环）**：①规则回顾（SOP §10/§11）→ ②预检（invariant + 扫描 + tsc + vitest）→ ③构建（dist-clean/混淆日志双断言）→ ④`tools/publish_ssh.py` 双源发布 → ⑤双源四项校验 + 归档完整性 → ⑥**README/CHANGELOG/交付文档同步更新（硬性规范）** → ⑦源码只推私有源仓 `origin main`（公共 Gitee / Releases 仓仅由 publish_ssh 投递发布物，严禁源码）。七步全 PASS 才算「已发布」。
 - **README 同步硬性规范**：每次版本发布或迭代必须同步更新本 README（版本号/下载地址/新增功能/接口变更/配置项/已知问题/更新日志），README 落后于实际版本视为发版未闭环。
@@ -195,7 +196,7 @@
 - 前端 `SwarmStudio.tsx` + `swarmStore.ts` + `api/swarm.ts`：蜂群运行面板、step 时间线、产物预览。
 - 明文 Key 加密迁移收尾 + LLM 调用指数退避/无缝故障转移。
 
-## v0.4.84 更新日志（2026-09-19）
+## v0.5.1 更新日志（2026-09-19）
 
 - **品牌重塑**：logo 目录 kit 全局替换、全平台图标重建（Windows/Mac/Linux 的 icns/ico/png）、竹绿品牌色令牌统一（`#14532d` / `#22c55e` / `#4ade80`）。
 - **五项缺陷修复**：最小化一步交互、侧栏默认展开、卡顿 async 治理、IPC 门禁误报修复、29 页链路排查。
