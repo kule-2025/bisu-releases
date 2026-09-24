@@ -1,0 +1,11 @@
+{
+  "version": "0.9.1",
+  "notes": "BISU v0.9.1 遗留风险消除+P4增值+深度交互+性能优化 双源部署",
+  "pub_date": "2026-09-24T14:15:27Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXVKY05lL0dUNWU4N0E2bktSRG1ncVp4SEtiOGxSZzRtZ3diVkVNa2JWMlh2dGF0TVovN0g3M21vanlzcE12dUMvYjdhbXRlMmlIY3VYOWo4bFkzR0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjU3MzA4CWZpbGU6QklTVV8wLjkuMV94NjQtc2V0dXAuZXhlCmI2RnFOZjJwVjkyeU9qOGh4dlUvbmh4QzJFZ3ZURmYrbytIMUdLemZESlRoNmlzM3FvdXhpRzV2RDI3SzBZdGd0b0JRQ0hFUDRZYjQva1cxaFBEZEJBPT0K",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.9.1/BISU_0.9.1_x64-setup.exe"
+    }
+  }
+}
