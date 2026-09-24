@@ -1,0 +1,11 @@
+{
+  "version": "0.9.0",
+  "notes": "BISU v0.9.0 API大模型重构与配置安全 双源部署",
+  "pub_date": "2026-09-24T08:02:44Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWhPS3d1aXBsRHYwTEFBZDMwcHRaQkNFVUs3OXprQ2gxaEdFOTBrWUtxS0JaTWJiaUFqaCtlUXR3WXh5MzdBWjlnRDhaYW5GekMxNTFWOEs0aFk1bWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjM2NjQ5CWZpbGU6QklTVV8wLjkuMF94NjQtc2V0dXAuZXhlCmllY2ZnbXhzeVg2K01OeUlNajl2M0R6U3RTRjhvUE5nQzNpZEk1S2diZm53OXhXOUFTOWVIN1hISjNYYVJkclhWekllaHBoUkJpcEVnVUN0UnN5d0NBPT0K",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.9.0/BISU_0.9.0_x64-setup.exe"
+    }
+  }
+}
