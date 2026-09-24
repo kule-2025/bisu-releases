@@ -1,11 +1,11 @@
 {
-  "version": "0.6.0",
-  "notes": "v0.6.0: 九大深度功能模块全面上线（P0智能续写/节奏分析/人物一致性/逻辑扫描，P1去AI味/多平台发布/爆款公式增强，P2读者模拟器/写作教练）",
-  "pub_date": "2026-09-23T05:57:04Z",
+  "version": "0.8.0",
+  "notes": "# BISU v0.8.0 发布说明（Release Notes，公共安全版）\n\n## 三层能力上线\n\n**深度创作功能层（13 项）**\n智能续写引擎、节奏分析与优化、人物一致性守卫、逻辑漏洞扫描、去 AI 味精修、多平台一键发布、爆款公式库、读者模拟、写作教练、大纲智能演化、世界观一致性校验、章节版本时光机、敏感词合规引擎。\n\n**IP 全链路层**\n从网文到 IP 的一站式改编管线：改编规划、分段流水线、剧本工坊、条漫工坊、视频物料工坊、AI 痕迹消痕报告、变现台账，配套 22 项新增操作命令与五域导航重构。\n\n**成片链层**\n导演智能体蜂群 DAG 编排器、图生视频扩展（Kling）、批量生成队列与成本计量与预算熔断、合成管线升级（字幕/BGM/分辨率）、素材台账与失败恢复、成片驾驶舱、7 项重点交互（时间线、分段重渲染、一致性门三出口、进度滑杆、成本确认、进度中止、多段串联），ffmpeg 随安装包分发。\n\n## 安装包\n\n- Windows 10/11 x64，NSIS 安装包\n- GitHub 主源：https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.8.0/BISU_0.8.0_x64-setup.exe\n- Gitee 备源：https://gitee.com/king2030/bisu/releases/download/v0.8.0/BISU_0.8.0_x64-setup.exe\n- 更新元数据（主源）：https://raw.githubusercontent.com/kule-2025/bisu-releases/main/latest.json\n- 更新元数据（备源）：https://gitee.com/king2030/bisu/raw/master/latest.json\n\n## 校验\n\n- minisign Ed25519 签名，签名文件随安装包同源分发\n- 线上版本以双源 latest.json 实际返回版本为准\n",
+  "pub_date": "2026-09-24T03:24:03Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW9OU25EZmpUbnh4Y3NBeEZMOWtnZ1FWY3BFSitCd2xtTmlFKzJXZWlOR1VmVnpxSjFQQjNHOW9scTdySlNNL2pQbWlqdXJiODNvQkVkd0Q1OFBIQ3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTQyODY1CWZpbGU6QklTVV8wLjYuMF94NjQtc2V0dXAuZXhlCnRjR2ZiMm5XUjBBSTVQMElvZnNBY1ZpdVlQdit1dDFoSHhoaU5hQkM0VzNzZUVyRk0vVitDdWVTNVhhYm5qbHhKcEZyNklsK3c5UjFZZ0lmZ1A4UkF3PT0K",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.6.0/BISU_0.6.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW9QZE1QbEkxK0dVN1pOOUlGMWJCSU0yUUpHMWI4V2c4ci8rM3M2UDJCMGUyYTg4Q2dZUUJuckVOb2VlWHNCbmhLc2w5RUVROEZxYnJ4dEpucGtKcUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjE5OTgwCWZpbGU6QklTVV8wLjguMF94NjQtc2V0dXAuZXhlCkNiRC81TG9Gc1V1SXFBcVhLK1g3OVBBNy94YVFSQjY0b2JhWTVPSWppWFVWRkZTSlhRdUdaUlhQUmhvVXJwQ24yYVBDWHErUVRxenNuKzhOYlAvOER3PT0K",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.8.0/BISU_0.8.0_x64-setup.exe"
     }
   }
 }
