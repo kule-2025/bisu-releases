@@ -1,11 +1,11 @@
 {
-  "version": "0.10.2",
-  "notes": "BISU v0.10.2 无感更新修复+双源部署",
-  "pub_date": "2026-09-26T09:54:55Z",
+  "version": "0.10.3",
+  "notes": "BISU v0.10.3 UI交互修复+依赖同步",
+  "pub_date": "2026-09-26T12:39:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWdRdWgrVk9DMXF3WW41WVVFOFl5K3FCK1hCWUtpM2htbXdhOE9QcXZmakR0aEc4YWo3cW9aM2IybWs0NnptaUJkUENudGpId1B0bkVrMCtyckJEN3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDE2MjkwCWZpbGU6QklTVV8wLjEwLjJfeDY0LXNldHVwLmV4ZQpNQWVzVm41dytMczg3TkRpUjU1Z21lYjFFUmI5dnlpcFJreGUybW9KYkg1TzVJZTNJWm9ZVlVQeHM1N2JWS1pHSG5udVBSNitybHNYeEJqL1J3eGVDdz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.2/BISU_0.10.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW51MXVrSmpBWGFPUzNjQkV3UnJDbWVROGZBbllxZnAzb0VBVVk3K0hGcElHWXNsQ0JBb2ZxNkRieTRRbnR0NUc5NmxoMXpKbkRWaHYwSGY3K29id0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDI2Mjk1CWZpbGU6QklTVV8wLjEwLjNfeDY0LXNldHVwLmV4ZQpQTGh1czUwc0Z1L2RiZGJsUHNtamIxL1hna3hTcnAwMUVobVF6L3FMMWdUdjNkSDRHcHYvUEdDc21pWk85K0Y4RjJSM2t5MHhRTGc1VUg3K2FOdXBDdz09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.3/BISU_0.10.3_x64-setup.exe"
     }
   }
 }
