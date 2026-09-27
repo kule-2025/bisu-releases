@@ -1,11 +1,11 @@
 {
-  "version": "0.10.6",
-  "notes": "BISU v0.10.6 — L-1变现双库统一收入+AI密钥双表回退+模型测试端点智能适配+长篇连载免费开放+侧边栏空间重构",
-  "pub_date": "2026-09-27T11:08:39Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXBXZjZnRmVEa09ITDJXbVhpMmZwS3BMWGJLZTdlUEtyblIzWmMyZ1orWlhuRmZUVEVSWXdjUnc0TG1lS2grM25wdXI5NVVKV2ovNXRHcE4xdFRtaXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTA3MTYzCWZpbGU6QklTVV8wLjEwLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuNgp5RXFPSVRlS3ZHdFU0WDdFNk5hYXgyUXp5Qkw5S3g0Y0VpdzJRSFE5Ty84bUNwZWpCNElEbEhSZ2xPWEJwTWtTRlpDV0hkREk3b2o2SDhxSWFtMDRCdz09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.6/BISU_0.10.6_x64-setup.exe"
-    }
-  }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXZRQ3YrZ2lRa3k1TXh0RVBZcktwSk83d2tqcUw4MGs2eUY3cHU2bUdQc2x2ZlpsRFdRUmJzMytJTnVkV25FdndwZmY4dEpFRnN2QjB3eWdJRkhQaFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTE4MTIwCWZpbGU6QklTVV8wLjEwLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuNwpiNWtFUi91VXl4bnRHcU01ejVlYlZ2VHNvSlM5NVhHak1qN1RDNjd3NlEyWGZGTU9Oam9TQzN6M2lvVEdzYktRcXFCK2xqOVRacGlFdUo5N3A1azZDZz09Cg==",
+                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.7/BISU_0.10.7_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-09-27T14:09:23Z",
+    "version":  "0.10.7",
+    "notes":  "v0.10.7 D批次深度修复：metrics漏斗接线+视频分镜产物落库+镜级精修五态状态机+统一轮询管理器+仓库卫生清理"
 }
