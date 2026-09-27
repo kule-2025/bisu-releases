@@ -1,11 +1,11 @@
 {
   "version": "0.10.5",
-  "notes": "BISU v0.10.5 — API配置丢失四级防护 + 七类问题全面修复(21/28) + 侧边栏导航重构 + 性能优化。详见 CHANGELOG.md。",
-  "pub_date": "2026-09-27T06:50:20Z",
+  "notes": "BISU v0.10.5 — API配置丢失四级防护 + 七类问题全面修复(21/28) + 侧边栏导航重构 + 性能优化 + 支付订单管理补全",
+  "pub_date": "2026-09-27T07:40:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWxVOGdMQkRucHFHK3VvYTRlUXZLRkM2WmNXWFZCRW1EUlBrQkxYUjF0TENWaXR4enBFdmRWd1VTdm9YUE5tOWRtS0JIRUQvNkMrYkVNVlVMOXl2WHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDkxNjYwCWZpbGU6QklTVV8wLjEwLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuNQpGcEpOSDYxcVlqdEZCRXRCRTJsSG02Z1lxczRybEdNbC9wcERVdll1SVZBSTlsb0tvVjRGL1hCd3lYZWJyT3Q5cHVaYXNrTW9vb2thcE9uRzVoM2NBUT09Cg==",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.10.5/BISU_0.10.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXNzaS9RYTRLVkg5K01jWnUzZi9lRzMyZjN0QmZjM2hyRy9IeEJ3SnEvV1plTFZGYk01WFkrdkNwc2k4bkU4Z3FuMG4wWHBkY1RFL1VXQVk4QlhJSVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDkzNTQ5CWZpbGU6QklTVV8wLjEwLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuNQplaDJ0TW1JY3hUM3ZOWGJza2czbmdPai96dUxoN1pZK09WWkVkalFLQ2ZFRFNKMmQxRm1MZ2tvei95QWVlQWlSRVpiQkY3T28xcUEvN1g2RWc5YXJCQT09Cg==",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.5/BISU_0.10.5_x64-setup.exe"
     }
   }
 }
