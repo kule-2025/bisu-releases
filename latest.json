@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXZRQ3YrZ2lRa3k1TXh0RVBZcktwSk83d2tqcUw4MGs2eUY3cHU2bUdQc2x2ZlpsRFdRUmJzMytJTnVkV25FdndwZmY4dEpFRnN2QjB3eWdJRkhQaFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTE4MTIwCWZpbGU6QklTVV8wLjEwLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuNwpiNWtFUi91VXl4bnRHcU01ejVlYlZ2VHNvSlM5NVhHak1qN1RDNjd3NlEyWGZGTU9Oam9TQzN6M2lvVEdzYktRcXFCK2xqOVRacGlFdUo5N3A1azZDZz09Cg==",
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.7/BISU_0.10.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW4wZ2NhQXNuRFZGZHJDMDFXcDVkNm4rTnFjN1dNT2tTTXBIQVJhSHpSWmVOYklQdDFqeTRNUzZCTHd0OEE0eHY0VW03dExxUjNhelp4eUJlQ3RzdmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIxNTA0CWZpbGU6QklTVV8wLjEwLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuOApndmI5dVIzTnh5bVdMSG5ibmMyTnhOMkk0UXliTHNkRDQ3OWhVKzNlKzM4SzlvVlhma2E2TWdOdURUZWwyVmc2TEhKbW95cGtRdkhtYVhHemx5YlBEZz09Cg==",
+                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.8/BISU_0.10.8_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-09-27T14:09:23Z",
-    "version":  "0.10.7",
-    "notes":  "v0.10.7 D批次深度修复：metrics漏斗接线+视频分镜产物落库+镜级精修五态状态机+统一轮询管理器+仓库卫生清理"
+    "pub_date":  "2026-09-27T15:06:45Z",
+    "version":  "0.10.8",
+    "notes":  "BISU v0.10.8 - E/F/G 三批次全量深度修复"
 }
