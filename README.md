@@ -7,6 +7,7 @@
 
 | 版本 | 发布日期 | 安装包 | 签名 |
 |------|---------|--------|------|
+| **v0.10.13** | 2026-09-29 | [BISU_0.10.13_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.13/BISU_0.10.13_x64-setup.exe) | [BISU_0.10.13_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.13/BISU_0.10.13_x64-setup.exe.sig) |
 | **v0.10.7** | 2026-09-27 | [BISU_0.10.7_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.7/BISU_0.10.7_x64-setup.exe) | [BISU_0.10.7_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.7/BISU_0.10.7_x64-setup.exe.sig) |
 | v0.10.6 | 2026-09-27 | [BISU_0.10.6_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.6/BISU_0.10.6_x64-setup.exe) | [BISU_0.10.6_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.6/BISU_0.10.6_x64-setup.exe.sig) |
 | v0.10.5 | 2026-09-27 | [BISU_0.10.5_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.5/BISU_0.10.5_x64-setup.exe) | [BISU_0.10.5_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.5/BISU_0.10.5_x64-setup.exe.sig) |

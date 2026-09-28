@@ -1,12 +1,12 @@
-{
+﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.12/BISU_0.10.12_x64-setup.exe",
+                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.13/BISU_0.10.13_x64-setup.exe",
                                              "signature":  "",
-                                             "sha256":  "2DBF5CC274AB77E8027FA028BC6FE5A95E1556A6E212D02F72F77D1417532BC8"
+                                             "sha256":  "51860EB9C43E627043429FFE6D5B591E40B1887004AC26A2DD812430DB3E2EF7"
                                          }
                   },
-    "pub_date":  "2026-09-28T12:00:00Z",
-    "version":  "0.10.12",
-    "notes":  "BISU v0.10.12 - 全量深度修复"
+    "pub_date":  "2026-09-28T23:30:15Z",
+    "version":  "0.10.13",
+    "notes":  "BISU v0.10.13 - AppSidebar批量选择/llm类型优化/视频组件优化/IPPipeline重构"
 }
