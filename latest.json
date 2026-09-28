@@ -1,11 +1,11 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWltbDNMa2xicXc1MmJvSDhERFlseXA5UWpGVzdDQmNoaE1qbCtjTCtDaVJpK2VoVlNJSHdDWldJVGxDcmZTRENuNXNhZjJSclNMVU5wbmlxbU1Hcnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTUzNzQ4CWZpbGU6QklTVV8wLjEwLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuOQpDY3BYZlFiTHk1UFhhSEVvUDIzYWFWOThnR3R5Ujg4Q3VqQi9heGlld3BCaTlvNTVTWm9ObktFNUdnUUI2cVJXdlpFcGdBNm9IbVM4VGIwWmE2QytBQT09Cg==",
-      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.9/BISU_0.10.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXR1TG9TM3l6TVhJVkJoY0JqZlE5UklmTEFGY2dSNW54TTZUdjh6VGZqSFg0QW9kQ2g5UTZpZEsvQzVFZGdEVG9Uc1BmdkVPMmxlVi9rd2VGNHdPTUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTY0NzYyCWZpbGU6QklTVV8wLjEwLjEwX3g2NC1zZXR1cC5leGUKc3dabnlqUGd5Q2N5MXdOL0gvZnNNcm1QSnVtV1lxcTdaeGcxd1JSVFVnUndKaXdEQmQ2TldqME43cGxNV1puWVNqYzRSRUVoR3lXazJpSzdQWXBZQXc9PQo=",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.10/BISU_0.10.10_x64-setup.exe"
     }
   },
-  "pub_date": "2026-09-28T00:10:16.662Z",
-  "version": "0.10.9",
+  "pub_date": "2026-09-28T03:07:51.482Z",
+  "version": "0.10.10",
   "notes": "BISU v0.10.8 - E/F/G 三批次全量深度修复"
 }
