@@ -1,11 +1,11 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW4wZ2NhQXNuRFZGZHJDMDFXcDVkNm4rTnFjN1dNT2tTTXBIQVJhSHpSWmVOYklQdDFqeTRNUzZCTHd0OEE0eHY0VW03dExxUjNhelp4eUJlQ3RzdmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTIxNTA0CWZpbGU6QklTVV8wLjEwLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTAuOApndmI5dVIzTnh5bVdMSG5ibmMyTnhOMkk0UXliTHNkRDQ3OWhVKzNlKzM4SzlvVlhma2E2TWdOdURUZWwyVmc2TEhKbW95cGtRdkhtYVhHemx5YlBEZz09Cg==",
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.8/BISU_0.10.8_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-09-27T15:06:45Z",
-    "version":  "0.10.8",
-    "notes":  "BISU v0.10.8 - E/F/G 三批次全量深度修复"
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.9/BISU_0.10.9_x64-setup.exe.sig",
+      "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.9/BISU_0.10.9_x64-setup.exe"
+    }
+  },
+  "pub_date": "2026-09-28T00:09:53.062Z",
+  "version": "0.10.9",
+  "notes": "BISU v0.10.8 - E/F/G 三批次全量深度修复"
 }
