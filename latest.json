@@ -1,7 +1,7 @@
 {
   "version": "0.10.13",
   "notes": "BISU v0.10.13 — 原生alert统一替换为LegalModal法务弹窗(4处) + TypeScript类型安全专项(:any 88→61, -30.7%) + 构建BOM修复 + 侧边栏批量选择/LLM类型优化/视频组件优化/IP流水线重构",
-  "pub_date": "2026-09-29T03:20:30Z",
+  "pub_date": "2026-09-29T03:21:51Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXUxcVBGUEtBcU9qaUJuUXRROW4xc2g3VlNJMXpFcks2SWhFRUtzeW1GZzVGcUFNN01lRXdMaG1tUmxqdUJ6cW5BZVpRdW5IdzY2MGhQVjJQbldpbndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjUwNzQ2CWZpbGU6QklTVV8wLjEwLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjEzCjRkOGpOTTNpWmQ4b0RlVk41ZHVJMDk5NGNWY0Qvamhwd0NTNCtqblVuWEZvN1pJeFUvZVJucGFYNmxrQUFoai9tWU9BTXV3R096SlJaVXErRG9zYUFBPT0K",
