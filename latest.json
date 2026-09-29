@@ -1,12 +1,12 @@
-﻿{
+{
+    "version":  "0.10.13",
+    "notes":  "BISU v0.10.13 - AppSidebar批量选择/llm类型优化/视频组件优化/IPPipeline重构/编译错误修复",
+    "pub_date":  "2026-09-29T12:00:00Z",
     "platforms":  {
                       "windows-x86_64":  {
                                              "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.13/BISU_0.10.13_x64-setup.exe",
-                                             "signature":  "",
-                                             "sha256":  "51860EB9C43E627043429FFE6D5B591E40B1887004AC26A2DD812430DB3E2EF7"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXUxcVBGUEtBcU9qaUJuUXRROW4xc2g3VlNJMXpFcks2SWhFRUtzeW1GZzVGcUFNN01lRXdMaG1tUmxqdUJ6cW5BZVpRdW5IdzY2MGhQVjJQbldpbndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjUwNzQ2CWZpbGU6QklTVV8wLjEwLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjEzCjRkOGpOTTNpWmQ4b0RlVk41ZHVJMDk5NGNWY0Qvamhwd0NTNCtqblVuWEZvN1pJeFUvZVJucGFYNmxrQUFoai9tWU9BTXV3R096SlJaVXErRG9zYUFBPT0K",
+                                             "sha256":  "7A1B8C952CBFC735367142943EB2BE302B28CD5DDC924FBAD3B0F500EB6E04A6"
                                          }
-                  },
-    "pub_date":  "2026-09-28T23:30:15Z",
-    "version":  "0.10.13",
-    "notes":  "BISU v0.10.13 - AppSidebar批量选择/llm类型优化/视频组件优化/IPPipeline重构"
+                  }
 }
