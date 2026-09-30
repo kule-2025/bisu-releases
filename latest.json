@@ -1,11 +1,11 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRXIxOWxrYlcwMWpHSC9EcngzOU1zVENrL3FsdGV6amNZQ250aFQ5SlRSZXVlS2xlU3dlVXRSd0M0R2o1d1c0ZlQ1MHdQWnBaMjdjUzI2azhub3Q1d2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjg1NDI0CWZpbGU6QklTVV8wLjEwLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjE0CkM4dUxUOGNvYmtwNFh6WHRpTHNSSmxMUXU4QVlnN0luSGhpV1dHaHFLYmRheG9pTHVKMExHaEg0L3VqRzBFQjJiRHpwRVkwRWxvRGtGQ3Q4RUVxV0NnPT0K",
-                                             "url":  "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.14/BISU_0.10.14_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-09-29T12:38:07.898Z",
-    "version":  "0.10.14",
-    "notes":  "BISU v0.10.14 - 全功能端到端审查修复（两轮）：修复IP改编段2死代码、变现看板字段契约、Comic付费墙、长/短篇正文编辑、metrics埋点全面铺开、性能优化等50+文件改动。"
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWg3Wkw0UlI0SWQvYklWMTFRdkhkaVo2eHhrN1g1UGl5ZE1Oc08rUXl1SWZUMllEc1VTeitmMktaNFBuNEd1YzFIRmhuLzZIVnk2WGpMODNxdGwvS3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzI5MTQ3CWZpbGU6QklTVV8wLjEwLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjE1CkdJTERQYTd1eWUrTGpFcnZPMVV4Sml0V2FOWjgxeFV5ZHVEaHRWdWlyMUFKbkZkVFpiS1A2eS85SXl2cjJsUWhTN3dzOG8yUmNMa0QyRDdydkM5L0JBPT0K",
+            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.15/BISU_0.10.15_x64-setup.exe"
+        }
+    },
+    "pub_date": "2026-09-30T00:46:31.000Z",
+    "version": "0.10.15",
+    "notes": "BISU v0.10.15 - 第二、三轮深度修复：P0分镜配图持久化、长连载单章增量回写、变现看板字段对齐；第三轮将6项产品规划限制全部落地（目标DB读写、番茄钟实时字数、平台API真实调研与发布前预检、题材genre真实分析、每日循环提醒、styleProfile流式输出）。"
 }
