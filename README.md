@@ -7,11 +7,11 @@
 
 | 版本 | 发布日期 | 安装包 | 签名 |
 |------|---------|--------|------|
-| **v0.10.15** | 2026-09-30 | [BISU_0.10.15_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.15/BISU_0.10.15_x64-setup.exe) | [BISU_0.10.15_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.15/BISU_0.10.15_x64-setup.exe.sig) |
+| **v0.10.16** | 2026-10-02 | [BISU_0.10.16_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.16/BISU_0.10.16_x64-setup.exe) | [BISU_0.10.16_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.16/BISU_0.10.16_x64-setup.exe.sig) |
+| v0.10.15 | 2026-09-30 | [BISU_0.10.15_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.15/BISU_0.10.15_x64-setup.exe) | [BISU_0.10.15_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.15/BISU_0.10.15_x64-setup.exe.sig) |
 | v0.10.14 | 2026-09-29 | [BISU_0.10.14_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.14/BISU_0.10.14_x64-setup.exe) | [BISU_0.10.14_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.14/BISU_0.10.14_x64-setup.exe.sig) |
-| v0.10.13 | 2026-09-29 | [BISU_0.10.13_x64-setup.exe](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.13/BISU_0.10.13_x64-setup.exe) | [BISU_0.10.13_x64-setup.exe.sig](https://github.com/kule-2025/bisu-releases/releases/download/v0.10.13/BISU_0.10.13_x64-setup.exe.sig) |
 
-> 国内用户可从 Gitee 备源下载最新版：https://gitee.com/king2030/bisu/releases/download/v0.10.15/BISU_0.10.15_x64-setup.exe
+> 国内用户可从 Gitee 备源下载最新版：https://gitee.com/king2030/bisu/raw/master/BISU_0.10.16_x64-setup.exe
 
 ## 系统要求
 
@@ -28,6 +28,31 @@ BISU 笔溯是专为网文新手作者打造的桌面创作工具，直击"写�
 - **AI 能力自主可控**：接入你自己的大模型账号，想用哪家用哪家，不被平台绑定
 - **从灵感到发布一站搞定**：选题、大纲、人设、写作、质检、改编、发布全流程覆盖
 - **多角色智能体协同创作**：一组各有人格的 AI 助手围绕你的书协同产出，新手也能稳定输出高质量章节
+
+## v0.10.16 更新内容（2026-10-02）
+
+> 本版为 v0.10.15 两轮深度修复的正式发布版本，共修复 **58 项问题**（P0×6 + P1×12 + P2×25 + P3×16），新增数据库迁移 v56（12 张表纳入迁移版本管理），全量类型检查与编译零错误通过。
+
+### 一、关键修复
+
+- **编译阻断（P0，6项）**：修复数据看板非法属性、任务队列 4 处无效图标名、类型不匹配等编译错误；修复时间线删除事件后切换页面重新出现的数据一致性问题
+- **核心业务闭环（P1，12项）**：大纲 AI 迭代产物可落地应用、大纲章节生成行为统一、世界观模板应用反馈修复、剧本工坊编辑结果持久化、条漫工坊分镜卡重复膨胀修复、改编规划草稿决策回灌、短篇合集增量保存、全局项目更新事件监听补全
+- **体验与数据一致性（P2，25项）**：今日任务统计口径修正、创作目标与提醒联动、双连续打卡体系同步、角色关系编辑、角色一致性检查并发优化、长篇连载非正文操作增量命令、大纲版本恢复批量优化、质检明细入库等
+- **优化与清理（P3，16项）**：工作台文件列表虚拟化、知识库与术语弹窗统一、死代码与死 API 标注、短篇合集编辑能力、数据孤岛已知标注等
+
+### 二、数据库迁移 v56
+
+- 12 张表（权限管理等）由命令模块内联建表改为纳入迁移版本管理，含 9 个索引
+- 内联建表保留作运行时自愈兜底，确保升级兼容性
+- 迁移版本号 55→56
+
+### 三、性能优化
+
+- 大纲版本恢复：4N 次进程间调用 → 1 次批量操作
+- 角色加载：N 次单卡查询 → 1 次批量查询
+- 今日任务：双路全量拉取 → 单次查询客户端派生
+- 长篇连载非正文操作：整库重写 → 增量命令
+- 短篇合集：全量遍历更新 → 单合集写库
 
 ## v0.10.15 更新内容（2026-09-30）
 
