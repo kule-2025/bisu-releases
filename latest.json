@@ -1,11 +1,11 @@
 {
-  "version": "0.10.17",
-  "notes": "BISU v0.10.17 - P0修复：AI模型配置双表密钥同步（新面板配置写作立即可见）、成长阶段查错表修复、AI用量统计改读真实表、侧栏爆款公式重定向修复",
-  "pub_date": "2026-10-03T13:26:01Z",
+  "version": "0.10.18",
+  "notes": "v0.10.18: 全量问题修复（AI额度管控/变现数据打通/付费闭环/引导合并/发布收敛/TTS对轨/死命令清理等10项）",
+  "pub_date": "2026-10-03T14:57:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW94akhQYS9ITm5WTnRTWU5oc2tiM2d4bU1MdzZHMU1oNHNQTVZxM0gxZVRNVUo5cUFsS3JWZmdEenFvVnk5OHVWZnlBcXRKanFvRURoeGxyWjVveUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDMzOTYwCWZpbGU6QklTVV8wLjEwLjE3X3g2NC1zZXR1cC5leGUKdGJhNmtPeHN0M0k2NG00cXhHdUE3OHBYK2hNRVRWNjNZRklZYnZIVUpSZVpOaUZWQzRVVjlpTDVTQVB0UGdmOCswUm9KdGE4bHRtNytRcXBBSEdxQVE9PQo=",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.10.17/BISU_0.10.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWpIVHY2bnIwMCs4cnZWZHZ3dENPd05NaUtzK1NXZWd4YkNyVFVzMjFZeEhueG9uUlhQbEFaMzJLVkN0bjhkMzliZkI3TGE1WnUrS1JNcy94eGk0OVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDM5NDIzCWZpbGU6QklTVV8wLjEwLjE4X3g2NC1zZXR1cC5leGUKNjcxaW1yWWhrK2tXQ2p1MkxQTE9FMThzZmFnemhoSHloTjhyUU1aak9wZld4SDBOdzF4ZG02dXlGZlM3cVhybHdlY0FudHNnZ2l0VWRhU2J4aTBUQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.10.18/BISU_0.10.18_x64-setup.exe"
     }
   }
 }
