@@ -1,11 +1,11 @@
 {
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWg3Wkw0UlI0SWQvYklWMTFRdkhkaVo2eHhrN1g1UGl5ZE1Oc08rUXl1SWZUMllEc1VTeitmMktaNFBuNEd1YzFIRmhuLzZIVnk2WGpMODNxdGwvS3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzI5MTQ3CWZpbGU6QklTVV8wLjEwLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEwLjE1CkdJTERQYTd1eWUrTGpFcnZPMVV4Sml0V2FOWjgxeFV5ZHVEaHRWdWlyMUFKbkZkVFpiS1A2eS85SXl2cjJsUWhTN3dzOG8yUmNMa0QyRDdydkM5L0JBPT0K",
-            "url": "https://github.com/kule-2025/bisu-releases/releases/download/v0.10.15/BISU_0.10.15_x64-setup.exe"
-        }
-    },
-    "pub_date": "2026-09-30T00:46:31.000Z",
-    "version": "0.10.15",
-    "notes": "BISU v0.10.15 - 第二、三轮深度修复：P0分镜配图持久化、长连载单章增量回写、变现看板字段对齐；第三轮将6项产品规划限制全部落地（目标DB读写、番茄钟实时字数、平台API真实调研与发布前预检、题材genre真实分析、每日循环提醒、styleProfile流式输出）。"
+  "version": "0.10.17",
+  "notes": "BISU v0.10.17 - P0修复：AI模型配置双表密钥同步（新面板配置写作立即可见）、成长阶段查错表修复、AI用量统计改读真实表、侧栏爆款公式重定向修复",
+  "pub_date": "2026-10-03T13:26:01Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW94akhQYS9ITm5WTnRTWU5oc2tiM2d4bU1MdzZHMU1oNHNQTVZxM0gxZVRNVUo5cUFsS3JWZmdEenFvVnk5OHVWZnlBcXRKanFvRURoeGxyWjVveUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMDMzOTYwCWZpbGU6QklTVV8wLjEwLjE3X3g2NC1zZXR1cC5leGUKdGJhNmtPeHN0M0k2NG00cXhHdUE3OHBYK2hNRVRWNjNZRklZYnZIVUpSZVpOaUZWQzRVVjlpTDVTQVB0UGdmOCswUm9KdGE4bHRtNytRcXBBSEdxQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisu-releases/main/v0.10.17/BISU_0.10.17_x64-setup.exe"
+    }
+  }
 }
