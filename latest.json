@@ -1,7 +1,7 @@
 {
   "version": "0.10.20",
   "notes": "v0.10.20: 遗留15项全量修复 - 统一发布前端切换/四套AI面板统一内核/6张死表DROP/latest.json自动生成/Gitee token加固/30个DEPRECATED命令清理/API层职责梳理/构建配置可移植化/134文档归档, schema v59",
-  "pub_date": "2026-10-04T03:40:51Z",
+  "pub_date": "2026-10-04T03:58:33Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",

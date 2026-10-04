@@ -38,7 +38,7 @@
 | 源 | 地址 |
 |------|------|
 | **GitHub 主源（推荐）** | https://github.com/kule-2025/bisu-releases/releases/download/v0.10.20/BISU_0.10.20_x64-setup.exe |
-| **Gitee 备源（国内直连）** | https://gitee.com/king2030/bisu/releases/download/v0.10.20/BISU_0.10.20_x64-setup.exe |
+| **Gitee 备源（国内直连）** | https://gitee.com/king2030/bisu/raw/master/releases/v0.10.20/BISU_0.10.20_x64-setup.exe |
 | **更新元数据（主源）** | https://raw.githubusercontent.com/kule-2025/bisu-releases/main/latest.json （备源：`gitee.com/king2030/bisu/raw/master/latest.json`） |
 
 > 下载后双击安装即可。Windows 10/11 x64，无需额外运行时依赖。
