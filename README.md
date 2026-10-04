@@ -4,7 +4,7 @@
 
 `#网文创作桌面助手` `#爆款小说创作桌面助手` `#爆款网文创作桌面助手` `#网文写作工具` `#桌面写作软件`
 
-> **当前代码版本：0.10.17**（2026-10-03；`package.json` / `Cargo.toml` / `tauri.conf.json` 三处同步；安装包随发布管线双源推送，线上版本以 latest.json 为准）
+> **当前代码版本：0.10.20**（2026-10-04；`package.json` / `Cargo.toml` / `tauri.conf.json` 三处同步；安装包随发布管线双源推送，线上版本以 latest.json 为准）
 
 > 100% 本地离线 · 加密 SQLite · Tauri 2.1 + Rust + React 18 + TypeScript 5.4
 > 不含任何云依赖 · 不收集任何用户数据 · 源码 100% 原创
@@ -37,8 +37,8 @@
 
 | 源 | 地址 |
 |------|------|
-| **GitHub 主源（推荐）** | https://github.com/kule-2025/bisu-releases/releases/download/v0.10.19/BISU_0.10.19_x64-setup.exe |
-| **Gitee 备源（国内直连）** | https://gitee.com/king2030/bisu/releases/download/v0.10.19/BISU_0.10.19_x64-setup.exe |
+| **GitHub 主源（推荐）** | https://github.com/kule-2025/bisu-releases/releases/download/v0.10.20/BISU_0.10.20_x64-setup.exe |
+| **Gitee 备源（国内直连）** | https://gitee.com/king2030/bisu/releases/download/v0.10.20/BISU_0.10.20_x64-setup.exe |
 | **更新元数据（主源）** | https://raw.githubusercontent.com/kule-2025/bisu-releases/main/latest.json （备源：`gitee.com/king2030/bisu/raw/master/latest.json`） |
 
 > 下载后双击安装即可。Windows 10/11 x64，无需额外运行时依赖。
@@ -48,6 +48,31 @@
 
 - **品牌升级 v2.0**：新钢笔橙 Logo（`#EF6014`）与全套图标已随 v0.4.21 上线，启动画面 / 关于页视觉将呈现新品牌形象。
 - **部署状态**：v0.4.21 双源部署完成后，本「已知问题」区将同步更新；历史 v0.4.20 的 Release 认证与 Gitee 同步问题已随本轮部署一并解决。
+
+## v0.10.20 更新记录（2026-10-04）
+
+> 本版聚焦 v0.10.19 四维度审查遗留的 15 项问题全量深度修复：统一发布子系统前端切换、四套 AI 聊天面板统一内核、6 张死表清理、latest.json 自动生成、Gitee token 安全加固、30 个废弃命令函数体删除、API 层职责梳理、构建配置可移植化、134 份历史文档归档。数据库 schema 升级至 v59。
+
+### 核心修复与增强
+- **统一发布子系统前端切换（P1）**：前端 API 层从旧 DEPRECATED 命令切换到 4 个统一命令（`publish_get_platforms`/`publish_execute`/`publish_get_records`/`publish_status_sync`），新建 `src/api/unifiedPublish.ts`，`MultiPlatformPublish` 核心流程适配统一命令，消除双轨技术债。
+- **四套 AI 聊天面板统一内核（P1）**：新建公共组件 `AIChatQuotaBadge.tsx`（自包含额度拉取）和 `useUnifiedChat.ts`（额度预检+选模闸门+成功刷新），AIChatPanel 新增流式打字机+额度管控（原缺失），CustomAIPanel/AgentChat 统一使用公共额度徽章，四套入口行为一致。
+- **6 张死表 DROP（P2）**：schema v59 迁移中 DROP `t_cloud_accounts`/`t_ai_offline_cache`/`long_serial_chapters`/`t_style_fingerprints`/`quality_reports`/`demo_note`（均零业务读写），减少 DB 体积。
+- **latest.json 自动生成（P2）**：`build_release.py` 集成 latest.json 自动生成（版本号+下载URL+sha256）并上传双源，自动更新器正常工作。
+- **Gitee token 传参加固（P2）**：`build_release.py` 将 access_token 从 URL query 改为 `Authorization: token` 请求头，日志脱敏（仅显示前4位+***），降低 token 泄漏风险。
+- **30 个 DEPRECATED 命令函数体删除（P2）**：已摘除注册且前端零调用的废弃命令，删除函数体源码，减少代码量。
+- **API 层职责梳理（P2）**：`publish.ts` 中 `qualityGateAnalyze` 迁移到 `qualityGate.ts`，消除 API 层职责模糊。
+- **构建配置可移植化（P3）**：`build.config.json`/`build.ps1`/`build_and_deploy.py` 中机器级路径（D:\Rust/D:\NodeJS）改为环境变量优先+自动探测，换机器可直接构建。
+- **134 份历史文档归档（P3）**：`docs/` 下历史版本文档归档到 `docs/archive/`，减轻维护负担。
+- **Page 类型清理（P3）**：移除 `useBisuAppState.ts` 中 "more"/"projects" 无用类型。
+
+### 数据库
+- **schema v59**：DROP 7 张死表（含 `t_ai_usage`），CURRENT_VERSION 58→59。
+
+### 回归验证
+- `cargo check`：0 error
+- `tsc --noEmit`：0 error
+- 命令注册检查：PASS
+- 构建配置路径检查：无硬编码绝对路径
 
 ## v0.10.19 更新记录（2026-10-04）
 
